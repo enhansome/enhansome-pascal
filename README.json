@@ -328,7 +328,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-04T23:15:01Z",
+            "last_commit": "2026-08-13T23:50:15Z",
             "owner": "skia4delphi",
             "repo": "skia4delphi",
             "stars": 779
@@ -373,7 +373,7 @@
             "last_commit": "2026-06-16T17:09:46Z",
             "owner": "EtheaDev",
             "repo": "SVGIconImageList",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -768,7 +768,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-09T05:40:05Z",
+            "last_commit": "2026-08-14T11:35:22Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 223
@@ -1003,7 +1003,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T12:34:13Z",
+            "last_commit": "2026-08-13T20:26:54Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10951
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-11T22:17:54Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1396
+            "stars": 1397
           }
         },
         {
@@ -1087,7 +1087,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-10T15:13:08Z",
+            "last_commit": "2026-08-14T15:35:47Z",
             "owner": "paolo-rossi",
             "repo": "delphi-jose-jwt",
             "stars": 517
@@ -2043,7 +2043,7 @@
             "last_commit": "2026-08-12T21:38:20Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 596
+            "stars": 595
           }
         },
         {
@@ -2186,7 +2186,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-07-27T06:31:35Z",
+            "last_commit": "2026-08-14T05:59:11Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 733
@@ -2388,7 +2388,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T15:36:23Z",
+            "last_commit": "2026-08-14T05:40:39Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 191
@@ -3036,7 +3036,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-08T20:22:26Z",
+            "last_commit": "2026-08-13T19:43:45Z",
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 8
@@ -3115,7 +3115,7 @@
             "last_commit": "2026-05-01T15:08:33Z",
             "owner": "BeRo1985",
             "repo": "besen",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -3219,7 +3219,7 @@
             "last_commit": "2026-08-13T11:26:44Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14157
+            "stars": 14180
           }
         },
         {
@@ -3230,7 +3230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T15:51:46Z",
+            "last_commit": "2026-08-14T02:37:12Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 433
@@ -3415,10 +3415,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-12T17:23:02Z",
+            "last_commit": "2026-08-14T12:23:10Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -3589,7 +3589,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-07T16:33:13Z",
+            "last_commit": "2026-08-14T15:19:39Z",
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
             "stars": 358
@@ -3765,6 +3765,20 @@
         },
         {
           "node_type": "item",
+          "title": "YAML/JSON ParserTools",
+          "description": ". YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2024-12-07T14:54:09Z",
+            "owner": "biot2",
+            "repo": "Yaml.Json.Parser.pas",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Delphi-XmlLite",
           "description": ". Header translation for Microsoft XmlLite. XmlLite is a native C++ implementation of .NET XmlReader+Writer for stream-based, forward-only XML parsing and creation. XmlLite.dll is required. It is included with all new versions of Windows, and service packs for old versions. XmlReader's pull-based interface is cleaner to use than SAX's event-based interface. // Seems abandoned and reported to be somewhat buggy.",
           "children": [],
@@ -3793,20 +3807,6 @@
         },
         {
           "node_type": "item",
-          "title": "YAML/JSON ParserTools",
-          "description": ". YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2024-12-07T14:54:09Z",
-            "owner": "biot2",
-            "repo": "Yaml.Json.Parser.pas",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
           "title": "THTMLWriter",
           "description": ". Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.",
           "children": [],
@@ -3816,7 +3816,7 @@
             "last_commit": "2026-03-12T08:27:02Z",
             "owner": "NickHodges",
             "repo": "delphihtmlwriter",
-            "stars": 7
+            "stars": 8
           }
         }
       ],
@@ -3923,7 +3923,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T09:30:46Z",
+            "last_commit": "2026-08-14T04:24:11Z",
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
             "stars": 154
@@ -4325,7 +4325,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T15:51:46Z",
+            "last_commit": "2026-08-14T02:37:12Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 433
@@ -4494,7 +4494,7 @@
             "last_commit": "2026-06-25T18:53:54Z",
             "owner": "jmpessoa",
             "repo": "lazandroidmodulewizard",
-            "stars": 294
+            "stars": 293
           }
         },
         {
@@ -4687,7 +4687,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T09:01:13Z",
+            "last_commit": "2026-08-14T09:00:43Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 76
@@ -5116,7 +5116,7 @@
             "last_commit": "2023-04-21T11:43:34Z",
             "owner": "EdZava",
             "repo": "VCL-ActiveDirectory4Delphi",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -5759,7 +5759,7 @@
             "last_commit": "2026-07-27T19:39:26Z",
             "owner": "DelphiCodeCoverage",
             "repo": "DelphiCodeCoverage",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -5869,7 +5869,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175281
+            "stars": 175285
           }
         },
         {
@@ -6031,7 +6031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:38:53.495Z",
+    "last_updated": "2026-08-14T16:35:57.957Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
     "enhanced_repository": "enhansome/enhansome-pascal",
