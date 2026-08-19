@@ -60,7 +60,7 @@
             "last_commit": "2026-05-08T22:18:58Z",
             "owner": "exilon",
             "repo": "QuickLib",
-            "stars": 710
+            "stars": 711
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "archived": false,
             "id": 150807317,
             "language": "Pascal",
-            "last_commit": "2026-08-19T11:56:01Z",
+            "last_commit": "2026-08-19T14:42:59Z",
             "owner": "HashLoad",
             "repo": "horse",
             "stars": 1368
@@ -1788,7 +1788,7 @@
             "archived": false,
             "id": 390534249,
             "language": "Pascal",
-            "last_commit": "2025-09-15T00:57:32Z",
+            "last_commit": "2026-08-19T14:48:17Z",
             "owner": "landgraf-dev",
             "repo": "aws-sdk-delphi",
             "stars": 139
@@ -2322,7 +2322,7 @@
             "archived": false,
             "id": 29590515,
             "language": "Pascal",
-            "last_commit": "2026-08-18T15:10:43Z",
+            "last_commit": "2026-08-19T13:51:22Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 734
@@ -3438,7 +3438,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-19T00:48:19Z",
+            "last_commit": "2026-08-19T15:55:37Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 434
@@ -3630,7 +3630,7 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-19T11:52:55Z",
+            "last_commit": "2026-08-19T15:25:25Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 255
@@ -3951,7 +3951,7 @@
             "archived": false,
             "id": 301824233,
             "language": "Pascal",
-            "last_commit": "2026-04-24T16:12:35Z",
+            "last_commit": "2026-08-19T15:02:24Z",
             "owner": "neslib",
             "repo": "Neslib.Xml",
             "stars": 61
@@ -4161,7 +4161,7 @@
             "last_commit": "2026-08-18T14:32:38Z",
             "owner": "pleriche",
             "repo": "FastMM5",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -4464,7 +4464,7 @@
             "last_commit": "2026-05-09T12:43:13Z",
             "owner": "exilon",
             "repo": "QuickLogger",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -4602,7 +4602,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-19T00:48:19Z",
+            "last_commit": "2026-08-19T15:55:37Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 434
@@ -6246,7 +6246,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175375
+            "stars": 175376
           }
         },
         {
@@ -6419,7 +6419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:20.832Z",
+    "last_updated": "2026-08-19T16:12:05.638Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "original_repository_id": 23147424,
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
