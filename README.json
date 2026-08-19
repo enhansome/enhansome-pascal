@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120072783,
             "language": "Pascal",
             "last_commit": "2026-07-21T16:42:59Z",
             "owner": "MagicFoundation",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7946450,
             "language": "Pascal",
             "last_commit": "2026-07-03T13:39:06Z",
             "owner": "project-jedi",
             "repo": "jcl",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104770428,
             "language": "Pascal",
             "last_commit": "2026-05-08T22:18:58Z",
             "owner": "exilon",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7650635,
             "language": "Pascal",
             "last_commit": "2026-05-29T12:25:17Z",
             "owner": "project-jedi",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19535520,
             "language": "Pascal",
             "last_commit": "2026-08-17T06:30:37Z",
             "owner": "cnpack",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50089387,
             "language": "Pascal",
             "last_commit": "2026-08-02T13:29:04Z",
             "owner": "andrea-magni",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78136785,
             "language": "Pascal",
             "last_commit": "2026-04-24T16:25:00Z",
             "owner": "grijjy",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50261518,
             "language": "Pascal",
             "last_commit": "2026-06-12T18:54:45Z",
             "owner": "Steema",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36909092,
             "language": "Pascal",
             "last_commit": "2018-07-24T07:31:31Z",
             "owner": "TheUnknownOnes",
@@ -150,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226658540,
             "language": "Pascal",
-            "last_commit": "2026-08-18T14:20:22Z",
+            "last_commit": "2026-08-19T10:56:54Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 83
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32129904,
             "language": "Pascal",
             "last_commit": "2016-01-27T19:48:50Z",
             "owner": "fundamentalslib",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410589207,
             "language": "Pascal",
             "last_commit": "2025-08-08T12:52:47Z",
             "owner": "mirko-bianco",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51543656,
             "language": "Pascal",
             "last_commit": "2018-01-11T10:03:34Z",
             "owner": "LaKraven",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83770765,
             "language": "Pascal",
             "last_commit": "2020-02-08T08:33:19Z",
             "owner": "pierrejean-coudert",
@@ -217,12 +232,7 @@
       "title": "General Libraries"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Multimedia"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264207468,
             "language": "Pascal",
             "last_commit": "2025-10-07T18:41:55Z",
             "owner": "HemulGM",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369421221,
             "language": "Pascal",
             "last_commit": "2021-10-26T20:37:07Z",
             "owner": "TDDung",
@@ -256,7 +268,7 @@
       "title": "Audio"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6322723,
             "language": "Pascal",
             "last_commit": "2026-06-17T19:24:49Z",
             "owner": "Laex",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72740153,
             "language": "Pascal",
             "last_commit": "2023-11-09T10:07:54Z",
             "owner": "micha137",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24200661,
             "language": "Pascal",
             "last_commit": "2022-09-07T15:51:37Z",
             "owner": "dpethes",
@@ -313,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -327,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394770994,
             "language": "Pascal",
             "last_commit": "2026-08-17T19:22:58Z",
             "owner": "skia4delphi",
@@ -341,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36506425,
             "language": "Pascal",
             "last_commit": "2025-05-08T10:04:22Z",
             "owner": "Spelt",
@@ -355,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60029721,
             "language": "Pascal",
             "last_commit": "2026-08-16T12:03:50Z",
             "owner": "graphics32",
@@ -369,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266366758,
             "language": "Pascal",
             "last_commit": "2026-06-16T17:09:46Z",
             "owner": "EtheaDev",
@@ -383,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23458369,
             "language": "Pascal",
             "last_commit": "2025-11-13T12:58:29Z",
             "owner": "synopse",
@@ -397,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223402112,
             "language": "Pascal",
             "last_commit": "2025-08-19T10:31:17Z",
             "owner": "EtheaDev",
@@ -411,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38542862,
             "language": "Pascal",
             "last_commit": "2026-05-30T14:34:01Z",
             "owner": "ahausladen",
@@ -425,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109430627,
             "language": "Pascal",
             "last_commit": "2026-08-05T22:25:54Z",
             "owner": "galfar",
@@ -439,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30968325,
             "language": "Pascal",
             "last_commit": "2025-03-22T02:58:55Z",
             "owner": "TurboPack",
@@ -453,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17314553,
             "language": "Pascal",
             "last_commit": "2024-07-31T06:54:13Z",
             "owner": "mike-lischke",
@@ -467,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126447950,
             "language": "Pascal",
             "last_commit": "2026-03-16T08:54:03Z",
             "owner": "landrix",
@@ -481,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110708015,
             "language": "Pascal",
             "last_commit": "2025-04-28T16:31:26Z",
             "owner": "exilon",
@@ -495,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28629264,
             "language": "Pascal",
             "last_commit": "2017-09-24T08:09:21Z",
             "owner": "SaschaWillems",
@@ -509,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37012308,
             "language": "Pascal",
             "last_commit": "2024-01-06T22:10:22Z",
             "owner": "CWBudde",
@@ -523,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28090347,
             "language": "Pascal",
             "last_commit": "2025-11-24T19:49:33Z",
             "owner": "MichaelDemidov",
@@ -537,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233872162,
             "language": "Pascal",
             "last_commit": "2026-08-12T08:08:56Z",
             "owner": "kryslt",
@@ -551,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235867657,
             "language": "Pascal",
             "last_commit": "2020-02-18T20:41:22Z",
             "owner": "sybrexsys",
@@ -565,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220612629,
             "language": "Pascal",
             "last_commit": "2025-09-22T16:11:35Z",
             "owner": "lminuti",
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32833477,
             "language": "Pascal",
             "last_commit": "2020-02-08T07:59:48Z",
             "owner": "WouterVanNifterick",
@@ -593,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32104152,
             "language": "Pascal",
             "last_commit": "2017-01-23T15:54:48Z",
             "owner": "vintagedave",
@@ -607,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35446036,
             "language": "Pascal",
             "last_commit": "2015-08-27T17:30:28Z",
             "owner": "Memnarch",
@@ -621,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247286277,
             "language": "Pascal",
             "last_commit": "2025-03-13T16:10:52Z",
             "owner": "UweRaabe",
@@ -635,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32104160,
             "language": "Pascal",
             "last_commit": "2015-08-31T00:10:28Z",
             "owner": "vintagedave",
@@ -649,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4348824,
             "language": "Pascal",
             "last_commit": "2026-05-26T23:17:52Z",
             "owner": "Memnarch",
@@ -663,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149982459,
             "language": "Pascal",
             "last_commit": "2026-04-06T11:50:09Z",
             "owner": "daar",
@@ -677,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36685612,
             "language": "Pascal",
             "last_commit": "2025-12-01T10:55:11Z",
             "owner": "cutec-chris",
@@ -691,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356633098,
             "language": "Pascal",
             "last_commit": "2026-05-30T20:19:48Z",
             "owner": "GabrielOnDelphi",
@@ -705,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589056920,
             "language": "Pascal",
             "last_commit": "2023-01-15T00:57:48Z",
             "owner": "fatihtsp",
@@ -719,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159364569,
             "language": "Pascal",
             "last_commit": "2019-04-07T13:07:14Z",
             "owner": "edivando-fpc",
@@ -733,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20618713,
             "language": "Pascal",
             "last_commit": "2016-01-17T14:28:30Z",
             "owner": "JanOosting",
@@ -753,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30114388,
             "language": "Pascal",
             "last_commit": "2026-08-12T16:20:57Z",
             "owner": "castle-engine",
@@ -767,11 +814,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-16T13:35:25Z",
+            "last_commit": "2026-08-19T04:25:37Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -781,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244948203,
             "language": "Pascal",
             "last_commit": "2026-07-22T21:13:46Z",
             "owner": "Cooler2",
@@ -795,11 +844,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319041413,
             "language": "Pascal",
             "last_commit": "2026-08-09T11:43:44Z",
             "owner": "GuvaCode",
             "repo": "ray4laz",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -809,11 +859,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37377686,
             "language": "Pascal",
             "last_commit": "2026-08-09T05:39:02Z",
             "owner": "BeRo1985",
             "repo": "kraft",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -823,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8935356,
             "language": "C++",
             "last_commit": "2020-11-08T20:27:13Z",
             "owner": "ev1313",
@@ -837,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322051530,
             "language": "Pascal",
             "last_commit": "2021-01-21T09:40:37Z",
             "owner": "BrokenGamesUG",
@@ -851,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717609596,
             "language": "Pascal",
             "last_commit": "2025-08-19T21:02:24Z",
             "owner": "Coldzer0",
@@ -865,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34580602,
             "language": "Pascal",
             "last_commit": "2017-03-12T15:28:29Z",
             "owner": "CWBudde",
@@ -879,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580238030,
             "language": "Pascal",
             "last_commit": "2023-09-15T05:20:06Z",
             "owner": "turborium",
@@ -893,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 301034231,
             "language": "Pascal",
             "last_commit": "2023-09-29T21:37:45Z",
             "owner": "Seenkao",
@@ -907,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153136344,
             "language": "C",
             "last_commit": "2021-05-30T20:56:18Z",
             "owner": "turric4n",
@@ -921,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33652389,
             "language": "Pascal",
             "last_commit": "2019-04-30T21:51:34Z",
             "owner": "d-mozulyov",
@@ -935,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82090584,
             "language": "Pascal",
             "last_commit": "2024-11-10T14:08:34Z",
             "owner": "niuniomartinez",
@@ -949,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28001580,
             "language": "Pascal",
             "last_commit": "2015-12-16T15:44:10Z",
             "owner": "Kromster80",
@@ -963,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140424160,
             "language": "Pascal",
             "last_commit": "2018-07-06T17:49:01Z",
             "owner": "kenjones007",
@@ -977,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630691561,
             "language": "Pascal",
             "last_commit": "2023-04-22T21:10:19Z",
             "owner": "DosWorld",
@@ -988,11 +1051,6 @@
       "title": "Game dev"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Communications"
-    },
-    {
       "description": "Socket communication, network protocols, encodings, etc",
       "items": [
         {
@@ -1002,11 +1060,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310611,
             "language": "C++",
             "last_commit": "2026-08-17T04:43:25Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -1016,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36435897,
             "language": "Pascal",
             "last_commit": "2026-08-11T22:17:54Z",
             "owner": "danieleteti",
@@ -1030,8 +1090,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150807317,
             "language": "Pascal",
-            "last_commit": "2026-08-16T22:08:21Z",
+            "last_commit": "2026-08-19T11:56:01Z",
             "owner": "HashLoad",
             "repo": "horse",
             "stars": 1368
@@ -1044,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -1058,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195119375,
             "language": "Pascal",
             "last_commit": "2026-08-07T14:32:32Z",
             "owner": "viniciussanchez",
@@ -1072,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43696172,
             "language": "Pascal",
             "last_commit": "2026-07-08T18:16:45Z",
             "owner": "IndySockets",
@@ -1086,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39593107,
             "language": "Pascal",
             "last_commit": "2026-08-18T09:40:53Z",
             "owner": "paolo-rossi",
@@ -1100,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72083688,
             "language": "Pascal",
             "last_commit": "2026-08-16T00:36:57Z",
             "owner": "winddriver",
@@ -1114,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79719063,
             "language": "Pascal",
             "last_commit": "2026-02-21T11:31:29Z",
             "owner": "torokernel",
@@ -1128,11 +1195,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099447279,
             "language": "Pascal",
-            "last_commit": "2026-08-15T14:21:24Z",
+            "last_commit": "2026-08-19T02:28:03Z",
             "owner": "cesarliws",
             "repo": "dext",
-            "stars": 308
+            "stars": 309
           }
         },
         {
@@ -1142,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166061544,
             "language": "Pascal",
             "last_commit": "2026-07-01T05:14:42Z",
             "owner": "risoflora",
@@ -1156,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45977231,
             "language": "Pascal",
             "last_commit": "2026-07-13T10:40:31Z",
             "owner": "delphi-blocks",
@@ -1170,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31147121,
             "language": "Pascal",
             "last_commit": "2026-04-22T13:23:14Z",
             "owner": "ymofen",
@@ -1184,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255258196,
             "language": "Pascal",
             "last_commit": "2025-05-19T12:15:47Z",
             "owner": "DelphiBuilder",
@@ -1198,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154539603,
             "language": "Pascal",
             "last_commit": "2026-08-11T08:49:45Z",
             "owner": "SchneiderInfosystems",
@@ -1212,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135585856,
             "language": "Pascal",
             "last_commit": "2022-12-12T08:33:21Z",
             "owner": "ultraware",
@@ -1226,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493540033,
             "language": "Pascal",
             "last_commit": "2022-12-16T16:21:46Z",
             "owner": "teppicom",
@@ -1240,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4951817,
             "language": "Pascal",
             "last_commit": "2020-03-29T12:17:38Z",
             "owner": "pjde",
@@ -1254,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61294109,
             "language": "Pascal",
             "last_commit": "2026-06-07T09:31:46Z",
             "owner": "lminuti",
@@ -1268,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54213274,
             "language": "Pascal",
             "last_commit": "2026-06-07T11:03:48Z",
             "owner": "michaelJustin",
@@ -1282,11 +1360,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 743480661,
             "language": "Pascal",
             "last_commit": "2026-06-30T09:55:52Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1296,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34801452,
             "language": "Pascal",
             "last_commit": "2022-03-23T17:28:27Z",
             "owner": "danieleteti",
@@ -1310,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4903086,
             "language": "Pascal",
             "last_commit": "2019-01-03T21:27:11Z",
             "owner": "bvarga",
@@ -1324,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30862359,
             "language": "Pascal",
             "last_commit": "2026-01-12T09:50:40Z",
             "owner": "coassoftwaresystems",
@@ -1338,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90073539,
             "language": "Pascal",
             "last_commit": "2020-01-21T20:38:40Z",
             "owner": "grijjy",
@@ -1352,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18673882,
             "language": "Pascal",
             "last_commit": "2022-12-14T12:22:53Z",
             "owner": "hprose",
@@ -1366,11 +1450,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241191068,
             "language": "Pascal",
             "last_commit": "2023-02-15T18:07:04Z",
             "owner": "Warfley",
             "repo": "LazWebsockets",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -1380,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265724664,
             "language": "Pascal",
             "last_commit": "2020-11-13T12:01:33Z",
             "owner": "mateusvicente100",
@@ -1394,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83957977,
             "language": "Pascal",
             "last_commit": "2026-03-14T04:45:36Z",
             "owner": "pult",
@@ -1408,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 207107305,
             "language": "Pascal",
             "last_commit": "2022-07-03T05:59:37Z",
             "owner": "isemenkov",
@@ -1422,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283781572,
             "language": "Pascal",
             "last_commit": "2026-03-26T22:04:21Z",
             "owner": "norgepaul",
@@ -1436,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163752856,
             "language": "Pascal",
             "last_commit": "2026-03-22T16:11:53Z",
             "owner": "almindor",
@@ -1450,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1917239,
             "language": "Pascal",
             "last_commit": "2026-07-07T17:02:07Z",
             "owner": "stijnsanders",
@@ -1464,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62310645,
             "language": "Pascal",
             "last_commit": "2016-07-06T08:12:15Z",
             "owner": "HeZiHang",
@@ -1478,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106616073,
             "language": "Pascal",
             "last_commit": "2019-12-01T00:05:03Z",
             "owner": "bkeevil",
@@ -1492,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213916456,
             "language": "Pascal",
             "last_commit": "2022-07-14T11:36:24Z",
             "owner": "Fr0sT-Brutal",
@@ -1506,6 +1600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79480364,
             "language": "Pascal",
             "last_commit": "2022-01-23T10:58:59Z",
             "owner": "EtheaDev",
@@ -1520,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65706699,
             "language": "Pascal",
             "last_commit": "2018-02-13T08:35:34Z",
             "owner": "HeZiHang",
@@ -1534,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68640238,
             "language": "Pascal",
             "last_commit": "2021-07-19T19:26:28Z",
             "owner": "kami-soft",
@@ -1548,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 689960528,
             "language": "Pascal",
             "last_commit": "2024-10-06T10:47:51Z",
             "owner": "biot2",
@@ -1562,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40256880,
             "language": "Pascal",
             "last_commit": "2016-11-14T04:14:36Z",
             "owner": "besasoftware",
@@ -1576,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95672446,
             "language": "Pascal",
             "last_commit": "2021-03-11T17:45:41Z",
             "owner": "dinmil",
@@ -1590,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39071471,
             "language": "Pascal",
             "last_commit": "2016-10-12T14:20:10Z",
             "owner": "tml21",
@@ -1604,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141342174,
             "language": "Pascal",
             "last_commit": "2018-07-18T17:55:13Z",
             "owner": "MFernstrom",
@@ -1618,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485644924,
             "language": "Pascal",
             "last_commit": "2022-04-26T12:24:54Z",
             "owner": "biot2",
@@ -1632,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208926368,
             "language": "Pascal",
             "last_commit": "2019-09-17T00:52:08Z",
             "owner": "terrylao",
@@ -1646,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217849729,
             "language": "Pascal",
             "last_commit": "2019-12-01T14:29:09Z",
             "owner": "HemulGM",
@@ -1666,11 +1771,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587303331,
             "language": "Pascal",
             "last_commit": "2026-07-14T17:00:50Z",
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -1680,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390534249,
             "language": "Pascal",
             "last_commit": "2025-09-15T00:57:32Z",
             "owner": "landgraf-dev",
@@ -1694,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753361,
             "language": "Pascal",
             "last_commit": "2015-09-04T14:57:08Z",
             "owner": "googleapi",
@@ -1708,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111989396,
             "language": "Pascal",
             "last_commit": "2026-03-17T09:12:08Z",
             "owner": "Al-Muhandis",
@@ -1722,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566768310,
             "language": "Pascal",
             "last_commit": "2025-03-25T13:34:46Z",
             "owner": "p-samuel",
@@ -1736,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74862653,
             "language": "Pascal",
             "last_commit": "2021-12-10T10:53:20Z",
             "owner": "andrea-magni",
@@ -1750,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 267255074,
             "language": "Pascal",
             "last_commit": "2022-08-20T19:08:39Z",
             "owner": "rareMaxim",
@@ -1764,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435297564,
             "language": "Pascal",
             "last_commit": "2026-02-04T19:17:00Z",
             "owner": "HemulGM",
@@ -1778,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227050414,
             "language": "Pascal",
             "last_commit": "2024-05-20T09:37:28Z",
             "owner": "HemulGM",
@@ -1792,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36761837,
             "language": "Pascal",
             "last_commit": "2018-07-25T13:06:35Z",
             "owner": "monde-sistemas",
@@ -1806,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37210107,
             "language": "Pascal",
             "last_commit": "2019-10-29T14:08:51Z",
             "owner": "monde-sistemas",
@@ -1820,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77506419,
             "language": "Pascal",
             "last_commit": "2021-11-29T09:05:38Z",
             "owner": "littleearth",
@@ -1834,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357202564,
             "language": "Pascal",
             "last_commit": "2023-01-06T09:13:48Z",
             "owner": "HemulGM",
@@ -1848,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480352831,
             "language": "Pascal",
             "last_commit": "2023-02-28T20:02:01Z",
             "owner": "HemulGM",
@@ -1862,6 +1981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392997364,
             "language": "Pascal",
             "last_commit": "2023-07-15T16:59:43Z",
             "owner": "HemulGM",
@@ -1873,7 +1993,7 @@
       "title": "Cloud & remote services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1882,6 +2002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17939962,
             "language": "Java",
             "last_commit": "2024-08-01T18:00:08Z",
             "owner": "felHR85",
@@ -1896,11 +2017,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 743480661,
             "language": "Pascal",
             "last_commit": "2026-06-30T09:55:52Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1910,6 +2032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57335753,
             "language": "Pascal",
             "last_commit": "2026-04-29T15:23:34Z",
             "owner": "TurboPack",
@@ -1924,6 +2047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167027091,
             "language": "Pascal",
             "last_commit": "2022-04-22T07:42:41Z",
             "owner": "CWBudde",
@@ -1938,6 +2062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347396953,
             "language": "Pascal",
             "last_commit": "2026-04-18T15:13:57Z",
             "owner": "MHumm",
@@ -1958,6 +2083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51853092,
             "language": "Pascal",
             "last_commit": "2026-01-12T16:17:08Z",
             "owner": "spinettaro",
@@ -1972,6 +2098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504135267,
             "language": "Pascal",
             "last_commit": "2025-11-08T11:12:13Z",
             "owner": "dalijap",
@@ -1986,6 +2113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155625344,
             "language": "Pascal",
             "last_commit": "2026-05-25T12:08:09Z",
             "owner": "VSoftTechnologies",
@@ -2000,6 +2128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329159825,
             "language": "Pascal",
             "last_commit": "2021-02-23T17:15:20Z",
             "owner": "viniciusfbb",
@@ -2014,6 +2143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24186614,
             "language": "Pascal",
             "last_commit": "2019-08-26T14:14:08Z",
             "owner": "global-system",
@@ -2025,11 +2155,6 @@
       "title": "Event bus"
     },
     {
-      "description": "Visual components",
-      "items": [],
-      "title": "GUI"
-    },
-    {
       "description": "Large sets of GUI controls",
       "items": [
         {
@@ -2039,11 +2164,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267178383,
             "language": "Pascal",
             "last_commit": "2026-08-17T22:27:09Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -2053,6 +2179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43244429,
             "language": "Pascal",
             "last_commit": "2026-03-21T00:11:47Z",
             "owner": "errorcalc",
@@ -2067,6 +2194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272850273,
             "language": "Pascal",
             "last_commit": "2025-12-30T15:50:22Z",
             "owner": "ying32",
@@ -2081,11 +2209,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131399601,
             "language": "Pascal",
             "last_commit": "2022-07-27T21:35:12Z",
             "owner": "jackdp",
             "repo": "JPPack",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -2095,8 +2224,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30963900,
             "language": "Pascal",
-            "last_commit": "2026-02-12T17:26:05Z",
+            "last_commit": "2026-08-18T21:19:45Z",
             "owner": "TurboPack",
             "repo": "Orpheus",
             "stars": 108
@@ -2109,6 +2239,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 243671660,
             "language": "Pascal",
             "last_commit": "2022-09-21T13:12:32Z",
             "owner": "tonghoangvu",
@@ -2123,6 +2254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34537593,
             "language": "Pascal",
             "last_commit": "2026-03-10T12:26:38Z",
             "owner": "SilverpointDev",
@@ -2137,6 +2269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233872162,
             "language": "Pascal",
             "last_commit": "2026-08-12T08:08:56Z",
             "owner": "kryslt",
@@ -2151,6 +2284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31767314,
             "language": "Pascal",
             "last_commit": "2025-03-17T23:30:40Z",
             "owner": "TurboPack",
@@ -2165,6 +2299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32321176,
             "language": "Pascal",
             "last_commit": "2025-09-20T13:26:22Z",
             "owner": "beNative",
@@ -2176,7 +2311,7 @@
       "title": "Control packs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2185,6 +2320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29590515,
             "language": "Pascal",
             "last_commit": "2026-08-18T15:10:43Z",
             "owner": "JAM-Software",
@@ -2199,6 +2335,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37548896,
             "language": "Pascal",
             "last_commit": "2020-11-03T20:51:14Z",
             "owner": "hgourvest",
@@ -2213,6 +2350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41801068,
             "language": "C++",
             "last_commit": "2026-03-06T06:04:18Z",
             "owner": "andrea-magni",
@@ -2227,6 +2365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33351241,
             "language": "Pascal",
             "last_commit": "2024-06-13T13:02:22Z",
             "owner": "norgepaul",
@@ -2241,11 +2380,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166986391,
             "language": "Pascal",
             "last_commit": "2026-01-24T02:01:18Z",
             "owner": "digao-dalpiaz",
             "repo": "DzHTMLText",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -2255,6 +2395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37257012,
             "language": "Pascal",
             "last_commit": "2023-11-13T00:21:45Z",
             "owner": "MahdiSafsafi",
@@ -2269,11 +2410,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72719720,
             "language": "Pascal",
             "last_commit": "2026-07-31T16:53:16Z",
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -2283,6 +2425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33964218,
             "language": "Pascal",
             "last_commit": "2026-07-28T23:45:12Z",
             "owner": "Alexey-T",
@@ -2297,6 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10575668,
             "language": "Pascal",
             "last_commit": "2022-09-18T16:15:13Z",
             "owner": "benibela",
@@ -2311,6 +2455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52177087,
             "language": "Pascal",
             "last_commit": "2017-11-23T22:47:05Z",
             "owner": "jkour",
@@ -2325,6 +2470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41952830,
             "language": "Pascal",
             "last_commit": "2026-02-13T00:21:01Z",
             "owner": "TurboPack",
@@ -2339,6 +2485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149267049,
             "language": "Pascal",
             "last_commit": "2025-01-23T07:18:34Z",
             "owner": "DenisAnisimov",
@@ -2353,6 +2500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41582478,
             "language": "Pascal",
             "last_commit": "2021-04-07T08:49:03Z",
             "owner": "landrix",
@@ -2364,7 +2512,7 @@
       "title": "Single controls"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2373,8 +2521,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30981756,
             "language": "Pascal",
-            "last_commit": "2026-07-23T01:57:10Z",
+            "last_commit": "2026-08-18T21:00:17Z",
             "owner": "TurboPack",
             "repo": "SynEdit",
             "stars": 265
@@ -2387,6 +2536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32381703,
             "language": "Pascal",
             "last_commit": "2026-08-18T12:36:32Z",
             "owner": "Alexey-T",
@@ -2401,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5622624,
             "language": "Pascal",
             "last_commit": "2021-02-06T21:26:02Z",
             "owner": "karser",
@@ -2415,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35412223,
             "language": "Pascal",
             "last_commit": "2016-04-19T10:44:54Z",
             "owner": "LaKraven",
@@ -2426,7 +2578,7 @@
       "title": "Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2435,11 +2587,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80214003,
             "language": "Pascal",
             "last_commit": "2026-08-15T14:42:19Z",
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
-            "stars": 1330
+            "stars": 1332
           }
         },
         {
@@ -2449,11 +2602,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193379,
             "language": "Pascal",
             "last_commit": "2026-07-19T10:41:01Z",
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -2463,11 +2617,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434739397,
             "language": "Pascal",
             "last_commit": "2026-08-03T17:30:50Z",
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -2477,6 +2632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30409001,
             "language": "Pascal",
             "last_commit": "2021-12-01T23:31:23Z",
             "owner": "da-baranov",
@@ -2491,6 +2647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20194381,
             "language": "Pascal",
             "last_commit": "2018-12-14T10:25:28Z",
             "owner": "Alexey-T",
@@ -2505,6 +2662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20194381,
             "language": "Pascal",
             "last_commit": "2018-12-14T10:25:28Z",
             "owner": "Alexey-T",
@@ -2519,6 +2677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20194381,
             "language": "Pascal",
             "last_commit": "2018-12-14T10:25:28Z",
             "owner": "Alexey-T",
@@ -2533,6 +2692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20194381,
             "language": "Pascal",
             "last_commit": "2018-12-14T10:25:28Z",
             "owner": "Alexey-T",
@@ -2544,7 +2704,7 @@
       "title": "Viewers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2553,6 +2713,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -2567,6 +2728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34865704,
             "language": "Pascal",
             "last_commit": "2026-08-03T23:54:25Z",
             "owner": "RRUZ",
@@ -2581,6 +2743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37658412,
             "language": "Pascal",
             "last_commit": "2026-08-04T20:08:58Z",
             "owner": "JAM-Software",
@@ -2595,11 +2758,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167642168,
             "language": "Pascal",
             "last_commit": "2025-01-24T20:08:08Z",
             "owner": "digao-dalpiaz",
             "repo": "Dam",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -2609,6 +2773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272588260,
             "language": "C",
             "last_commit": "2023-11-10T00:31:16Z",
             "owner": "cfyzium",
@@ -2623,6 +2788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32104142,
             "language": "Pascal",
             "last_commit": "2023-08-31T23:10:39Z",
             "owner": "vintagedave",
@@ -2637,6 +2803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36909092,
             "language": "Pascal",
             "last_commit": "2018-07-24T07:31:31Z",
             "owner": "TheUnknownOnes",
@@ -2651,6 +2818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180372914,
             "language": "Pascal",
             "last_commit": "2019-06-02T17:33:23Z",
             "owner": "havlicekp",
@@ -2665,6 +2833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25704065,
             "language": "Pascal",
             "last_commit": "2021-02-13T12:50:38Z",
             "owner": "WladiD",
@@ -2679,6 +2848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9352994,
             "language": "Pascal",
             "last_commit": "2024-12-24T11:40:23Z",
             "owner": "yktoo",
@@ -2693,6 +2863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119841084,
             "language": "Pascal",
             "last_commit": "2018-08-01T17:56:57Z",
             "owner": "albertodev01",
@@ -2707,6 +2878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275545051,
             "language": "Pascal",
             "last_commit": "2026-06-15T16:51:41Z",
             "owner": "HemulGM",
@@ -2721,6 +2893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477338546,
             "language": "Pascal",
             "last_commit": "2024-04-05T18:17:49Z",
             "owner": "GabrielOnDelphi",
@@ -2735,6 +2908,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186272096,
             "language": "Pascal",
             "last_commit": "2025-06-01T16:11:12Z",
             "owner": "EverestSoftwareLLC",
@@ -2749,6 +2923,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65324881,
             "language": "Pascal",
             "last_commit": "2016-08-09T20:21:13Z",
             "owner": "bero",
@@ -2760,7 +2935,7 @@
       "title": "Other GUI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2769,6 +2944,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -2783,6 +2959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -2797,6 +2974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -2811,6 +2989,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21604525,
             "language": "Pascal",
             "last_commit": "2026-03-07T16:09:20Z",
             "owner": "danieleteti",
@@ -2825,6 +3004,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36440625,
             "language": "Pascal",
             "last_commit": "2025-07-25T09:04:49Z",
             "owner": "danieleteti",
@@ -2839,6 +3019,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306732840,
             "language": "Pascal",
             "last_commit": "2026-07-31T15:35:36Z",
             "owner": "davidlastrucci",
@@ -2853,6 +3034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6041521,
             "language": "Pascal",
             "last_commit": "2026-02-06T03:59:39Z",
             "owner": "plashenkov",
@@ -2867,6 +3049,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158711610,
             "language": "Pascal",
             "last_commit": "2026-06-17T16:32:59Z",
             "owner": "EtheaDev",
@@ -2881,6 +3064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123428557,
             "language": "Pascal",
             "last_commit": "2021-02-02T23:07:35Z",
             "owner": "exilon",
@@ -2895,6 +3079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104367188,
             "language": "Pascal",
             "last_commit": "2023-05-03T11:45:28Z",
             "owner": "grijjy",
@@ -2909,6 +3094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13827052,
             "language": "Pascal",
             "last_commit": "2026-05-14T04:26:53Z",
             "owner": "ccy",
@@ -2923,6 +3109,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39959337,
             "language": "Pascal",
             "last_commit": "2024-02-27T22:33:16Z",
             "owner": "hgourvest",
@@ -2937,6 +3124,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61213087,
             "language": "Pascal",
             "last_commit": "2026-08-10T19:43:45Z",
             "owner": "mauriziodm",
@@ -2951,6 +3139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9008674,
             "language": "Pascal",
             "last_commit": "2025-06-11T08:50:20Z",
             "owner": "remobjects",
@@ -2965,6 +3154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78057940,
             "language": "Pascal",
             "last_commit": "2017-01-12T19:27:31Z",
             "owner": "grijjy",
@@ -2979,6 +3169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6746138,
             "language": "Pascal",
             "last_commit": "2023-06-26T14:47:22Z",
             "owner": "leledumbo",
@@ -2993,6 +3184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39383606,
             "language": null,
             "last_commit": "2020-12-27T22:08:39Z",
             "owner": "graemeg",
@@ -3007,6 +3199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78662785,
             "language": "Pascal",
             "last_commit": "2017-01-11T18:17:45Z",
             "owner": "grijjy",
@@ -3021,6 +3214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25568593,
             "language": "Pascal",
             "last_commit": "2015-08-19T18:58:11Z",
             "owner": "ultraware",
@@ -3035,6 +3229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792358743,
             "language": "Pascal",
             "last_commit": "2026-08-16T18:08:21Z",
             "owner": "bero",
@@ -3055,11 +3250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41310993,
             "language": "Pascal",
             "last_commit": "2025-11-26T11:54:48Z",
             "owner": "lmbelo",
             "repo": "python4delphi",
-            "stars": 1055
+            "stars": 1056
           }
         },
         {
@@ -3069,6 +3265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -3083,6 +3280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7650635,
             "language": "Pascal",
             "last_commit": "2026-05-29T12:25:17Z",
             "owner": "project-jedi",
@@ -3097,6 +3295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4112337,
             "language": "Pascal",
             "last_commit": "2026-07-05T05:36:14Z",
             "owner": "remobjects",
@@ -3111,6 +3310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26885863,
             "language": "Pascal",
             "last_commit": "2026-05-01T15:08:33Z",
             "owner": "BeRo1985",
@@ -3125,6 +3325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115744744,
             "language": "Pascal",
             "last_commit": "2023-10-31T05:53:24Z",
             "owner": "tondrej",
@@ -3139,6 +3340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32138131,
             "language": "Pascal",
             "last_commit": "2021-11-26T15:14:27Z",
             "owner": "Dennis1000",
@@ -3153,6 +3355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201367588,
             "language": "Pascal",
             "last_commit": "2022-09-16T12:47:58Z",
             "owner": "Coldzer0",
@@ -3167,6 +3370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30936574,
             "language": "Pascal",
             "last_commit": "2019-10-22T07:17:51Z",
             "owner": "d-mozulyov",
@@ -3181,6 +3385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52658886,
             "language": "Pascal",
             "last_commit": "2016-02-27T09:21:29Z",
             "owner": "danieleteti",
@@ -3195,6 +3400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753311,
             "language": "Pascal",
             "last_commit": "2011-07-18T12:41:43Z",
             "owner": "horazont",
@@ -3215,11 +3421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531380835,
             "language": "C++",
             "last_commit": "2026-08-18T06:09:07Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14241
+            "stars": 14252
           }
         },
         {
@@ -3229,11 +3436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-18T14:53:24Z",
+            "last_commit": "2026-08-19T00:48:19Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -3243,6 +3451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531272989,
             "language": "Pascal",
             "last_commit": "2023-04-15T18:31:55Z",
             "owner": "Pigrecos",
@@ -3257,6 +3466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164239838,
             "language": "Pascal",
             "last_commit": "2022-12-16T15:45:41Z",
             "owner": "ariaghora",
@@ -3271,6 +3481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244592574,
             "language": "Pascal",
             "last_commit": "2020-03-24T12:09:01Z",
             "owner": "Pigrecos",
@@ -3285,6 +3496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135500760,
             "language": "Pascal",
             "last_commit": "2019-04-12T19:24:03Z",
             "owner": "marvinbraga",
@@ -3299,6 +3511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149631228,
             "language": "Pascal",
             "last_commit": "2019-12-29T12:23:49Z",
             "owner": "inversed-ru",
@@ -3310,12 +3523,7 @@
       "title": "Machine Learning"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Non-visual Classes/Utils"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3324,6 +3532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -3338,6 +3547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30968634,
             "language": "Pascal",
             "last_commit": "2026-08-05T15:53:22Z",
             "owner": "TurboPack",
@@ -3352,6 +3562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13853442,
             "language": "Pascal",
             "last_commit": "2026-08-01T13:56:50Z",
             "owner": "AlexanderBagel",
@@ -3363,7 +3574,7 @@
       "title": "Compression"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3372,6 +3583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -3386,6 +3598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32552265,
             "language": "HTML",
             "last_commit": "2026-07-26T18:43:49Z",
             "owner": "MHumm",
@@ -3400,11 +3613,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62994881,
             "language": "Assembly",
             "last_commit": "2026-07-29T08:23:01Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -3414,8 +3628,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-18T15:17:39Z",
+            "last_commit": "2026-08-19T11:52:55Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 255
@@ -3428,6 +3643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240517419,
             "language": "Pascal",
             "last_commit": "2025-11-17T12:16:03Z",
             "owner": "viniciussanchez",
@@ -3442,6 +3658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31019306,
             "language": "Pascal",
             "last_commit": "2026-04-29T15:10:36Z",
             "owner": "TurboPack",
@@ -3456,6 +3673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120614628,
             "language": "Pascal",
             "last_commit": "2026-07-29T08:20:02Z",
             "owner": "Xor-el",
@@ -3470,6 +3688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79090850,
             "language": "Pascal",
             "last_commit": "2017-01-17T08:17:30Z",
             "owner": "evpobr",
@@ -3484,6 +3703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226974829,
             "language": "Pascal",
             "last_commit": "2022-07-04T01:43:06Z",
             "owner": "jackdp",
@@ -3498,6 +3718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303474645,
             "language": "Pascal",
             "last_commit": "2020-10-29T01:34:41Z",
             "owner": "LauraRozier",
@@ -3512,6 +3733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143439266,
             "language": null,
             "last_commit": "2019-12-29T11:31:59Z",
             "owner": "sergworks",
@@ -3523,7 +3745,7 @@
       "title": "Encryption"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3532,6 +3754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -3546,6 +3769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -3560,6 +3784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187937022,
             "language": "Pascal",
             "last_commit": "2026-08-03T18:02:23Z",
             "owner": "viniciussanchez",
@@ -3574,6 +3799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30831457,
             "language": "Pascal",
             "last_commit": "2026-06-03T21:06:51Z",
             "owner": "ahausladen",
@@ -3588,6 +3814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175992466,
             "language": "Pascal",
             "last_commit": "2026-08-14T15:19:39Z",
             "owner": "paolo-rossi",
@@ -3602,6 +3829,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39994593,
             "language": "Pascal",
             "last_commit": "2021-10-09T09:12:46Z",
             "owner": "hgourvest",
@@ -3616,6 +3844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32139024,
             "language": "Pascal",
             "last_commit": "2022-12-23T08:49:18Z",
             "owner": "onryldz",
@@ -3630,6 +3859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28751768,
             "language": "Pascal",
             "last_commit": "2024-06-17T10:58:50Z",
             "owner": "PKGeorgiev",
@@ -3644,11 +3874,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11592700,
             "language": "Pascal",
             "last_commit": "2026-07-01T12:49:39Z",
             "owner": "benibela",
             "repo": "internettools",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -3658,6 +3889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32851018,
             "language": "Pascal",
             "last_commit": "2024-04-05T14:42:53Z",
             "owner": "mremec",
@@ -3672,6 +3904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32138097,
             "language": "Pascal",
             "last_commit": "2020-10-27T19:28:28Z",
             "owner": "Dennis1000",
@@ -3686,6 +3919,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73793225,
             "language": "Pascal",
             "last_commit": "2020-03-07T16:12:32Z",
             "owner": "ying32",
@@ -3700,6 +3934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126773064,
             "language": "Pascal",
             "last_commit": "2025-11-17T22:06:23Z",
             "owner": "SeanSolberg",
@@ -3714,6 +3949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301824233,
             "language": "Pascal",
             "last_commit": "2026-04-24T16:12:35Z",
             "owner": "neslib",
@@ -3728,6 +3964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68732635,
             "language": "Pascal",
             "last_commit": "2023-08-05T17:45:31Z",
             "owner": "mauriziodm",
@@ -3742,6 +3979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153200296,
             "language": "Pascal",
             "last_commit": "2020-09-18T12:13:39Z",
             "owner": "z505",
@@ -3756,6 +3994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84344976,
             "language": "Pascal",
             "last_commit": "2017-12-18T10:49:24Z",
             "owner": "tmcdos",
@@ -3770,6 +4009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 868392084,
             "language": "Pascal",
             "last_commit": "2024-12-07T14:54:09Z",
             "owner": "biot2",
@@ -3784,6 +4024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69450476,
             "language": "C++",
             "last_commit": "2024-05-03T21:43:56Z",
             "owner": "the-Arioch",
@@ -3798,6 +4039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144732114,
             "language": "C",
             "last_commit": "2018-08-14T14:37:05Z",
             "owner": "ashumkin",
@@ -3812,6 +4054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147010969,
             "language": "Pascal",
             "last_commit": "2026-03-12T08:27:02Z",
             "owner": "NickHodges",
@@ -3832,11 +4075,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24018393,
             "language": "Pascal",
             "last_commit": "2026-01-25T17:18:25Z",
             "owner": "RomanYankovsky",
             "repo": "DelphiAST",
-            "stars": 296
+            "stars": 297
           }
         },
         {
@@ -3846,6 +4090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2564998,
             "language": "Pascal",
             "last_commit": "2015-09-02T07:49:51Z",
             "owner": "jacobthurman",
@@ -3860,6 +4105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9130517,
             "language": "Pascal",
             "last_commit": "2014-01-11T15:53:12Z",
             "owner": "RomanYankovsky",
@@ -3874,6 +4120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32266757,
             "language": "Pascal",
             "last_commit": "2026-05-01T15:23:02Z",
             "owner": "BeRo1985",
@@ -3894,6 +4141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51940638,
             "language": "Pascal",
             "last_commit": "2026-08-18T15:59:07Z",
             "owner": "pleriche",
@@ -3908,6 +4156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247436869,
             "language": "Pascal",
             "last_commit": "2026-08-18T14:32:38Z",
             "owner": "pleriche",
@@ -3922,6 +4171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94584465,
             "language": "Pascal",
             "last_commit": "2026-08-18T16:04:08Z",
             "owner": "maximmasiutin",
@@ -3936,6 +4186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34686803,
             "language": "Pascal",
             "last_commit": "2021-11-08T20:14:46Z",
             "owner": "andremussche",
@@ -3950,6 +4201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52424169,
             "language": "Pascal",
             "last_commit": "2020-06-06T20:00:44Z",
             "owner": "d-mozulyov",
@@ -3964,6 +4216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359884188,
             "language": "Pascal",
             "last_commit": "2026-07-24T18:42:18Z",
             "owner": "RDP1974",
@@ -3984,8 +4237,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34079338,
             "language": "Pascal",
-            "last_commit": "2026-08-10T13:51:38Z",
+            "last_commit": "2026-08-19T10:11:06Z",
             "owner": "gabr42",
             "repo": "OmniThreadLibrary",
             "stars": 509
@@ -3998,6 +4252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37280174,
             "language": "Pascal",
             "last_commit": "2024-07-02T18:51:32Z",
             "owner": "MahdiSafsafi",
@@ -4012,6 +4267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65619459,
             "language": "Pascal",
             "last_commit": "2019-10-28T15:37:48Z",
             "owner": "ahausladen",
@@ -4026,6 +4282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33544497,
             "language": "Pascal",
             "last_commit": "2020-08-13T06:53:20Z",
             "owner": "Fr0sT-Brutal",
@@ -4040,6 +4297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91624391,
             "language": "Pascal",
             "last_commit": "2021-10-27T05:03:42Z",
             "owner": "Wosi",
@@ -4054,6 +4312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146344936,
             "language": "Pascal",
             "last_commit": "2021-04-25T15:40:15Z",
             "owner": "mr-highball",
@@ -4068,6 +4327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439058924,
             "language": "Pascal",
             "last_commit": "2022-05-14T22:58:17Z",
             "owner": "emozgun",
@@ -4088,6 +4348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229803245,
             "language": "Pascal",
             "last_commit": "2026-06-20T22:52:36Z",
             "owner": "sempare",
@@ -4102,6 +4363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19237453,
             "language": "Pascal",
             "last_commit": "2022-04-26T12:47:45Z",
             "owner": "synopse",
@@ -4116,6 +4378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353035620,
             "language": "Pascal",
             "last_commit": "2021-04-05T20:13:53Z",
             "owner": "arimateia",
@@ -4130,6 +4393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226419635,
             "language": "Pascal",
             "last_commit": "2022-04-09T10:27:12Z",
             "owner": "sash-rc",
@@ -4144,6 +4408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61250900,
             "language": "Pascal",
             "last_commit": "2016-06-16T01:07:41Z",
             "owner": "leledumbo",
@@ -4158,6 +4423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42931022,
             "language": "Pascal",
             "last_commit": "2021-08-24T12:16:50Z",
             "owner": "Fr0sT-Brutal",
@@ -4169,7 +4435,7 @@
       "title": "Template"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4178,6 +4444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -4192,6 +4459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118295969,
             "language": "Pascal",
             "last_commit": "2026-05-09T12:43:13Z",
             "owner": "exilon",
@@ -4206,6 +4474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54708080,
             "language": "Pascal",
             "last_commit": "2026-06-14T20:08:42Z",
             "owner": "danieleteti",
@@ -4220,6 +4489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101075219,
             "language": "Pascal",
             "last_commit": "2024-02-23T10:27:58Z",
             "owner": "grijjy",
@@ -4234,6 +4504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787626963,
             "language": "Pascal",
             "last_commit": "2026-03-12T02:59:55Z",
             "owner": "adrianosantostreina",
@@ -4248,6 +4519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378806940,
             "language": "Pascal",
             "last_commit": "2024-11-04T20:08:20Z",
             "owner": "jachguate",
@@ -4262,6 +4534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50298593,
             "language": "Pascal",
             "last_commit": "2026-07-20T14:27:15Z",
             "owner": "michaelJustin",
@@ -4276,6 +4549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60233815,
             "language": "Pascal",
             "last_commit": "2016-06-02T05:56:44Z",
             "owner": "landrix",
@@ -4290,6 +4564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477655396,
             "language": null,
             "last_commit": "2023-01-25T17:27:17Z",
             "owner": "GabrielOnDelphi",
@@ -4304,6 +4579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752701093,
             "language": "Pascal",
             "last_commit": "2024-02-10T08:11:37Z",
             "owner": "paweld",
@@ -4315,7 +4591,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4324,11 +4600,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-18T14:53:24Z",
+            "last_commit": "2026-08-19T00:48:19Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -4338,6 +4615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68938223,
             "language": "Pascal",
             "last_commit": "2026-06-13T18:19:17Z",
             "owner": "neslib",
@@ -4352,6 +4630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32396273,
             "language": "Pascal",
             "last_commit": "2026-07-13T13:20:27Z",
             "owner": "mikerabat",
@@ -4366,6 +4645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42066637,
             "language": "Pascal",
             "last_commit": "2026-01-01T11:11:46Z",
             "owner": "Xor-el",
@@ -4380,6 +4660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14477009,
             "language": "Pascal",
             "last_commit": "2023-08-13T15:49:32Z",
             "owner": "benibela",
@@ -4394,6 +4675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47016377,
             "language": "Pascal",
             "last_commit": "2016-01-25T15:43:25Z",
             "owner": "Xor-el",
@@ -4414,6 +4696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34070096,
             "language": "Pascal",
             "last_commit": "2026-08-03T11:03:37Z",
             "owner": "gabr42",
@@ -4428,11 +4711,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21964210,
             "language": "Pascal",
             "last_commit": "2026-05-25T12:12:51Z",
             "owner": "VSoftTechnologies",
             "repo": "VSoft.CommandLineParser",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -4442,6 +4726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130620355,
             "language": "Pascal",
             "last_commit": "2022-08-08T11:57:53Z",
             "owner": "jackdp",
@@ -4456,6 +4741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8522483,
             "language": "Pascal",
             "last_commit": "2024-08-15T17:39:26Z",
             "owner": "tokibito",
@@ -4470,6 +4756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10574588,
             "language": "Pascal",
             "last_commit": "2023-04-30T18:11:05Z",
             "owner": "benibela",
@@ -4481,7 +4768,7 @@
       "title": "Command-line"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4490,6 +4777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12511548,
             "language": "Pascal",
             "last_commit": "2026-06-25T18:53:54Z",
             "owner": "jmpessoa",
@@ -4504,6 +4792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48665834,
             "language": "Pascal",
             "last_commit": "2025-02-27T18:51:11Z",
             "owner": "grahamegrieve",
@@ -4518,6 +4807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3808333,
             "language": "Pascal",
             "last_commit": "2026-07-08T08:16:12Z",
             "owner": "andgineer",
@@ -4532,6 +4822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34070096,
             "language": "Pascal",
             "last_commit": "2026-08-03T11:03:37Z",
             "owner": "gabr42",
@@ -4546,6 +4837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48863325,
             "language": "Pascal",
             "last_commit": "2025-11-04T02:41:47Z",
             "owner": "jimmckeeth",
@@ -4560,6 +4852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39723470,
             "language": "Pascal",
             "last_commit": "2026-01-12T16:46:07Z",
             "owner": "TurboPack",
@@ -4574,6 +4867,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32397938,
             "language": "Pascal",
             "last_commit": "2019-08-02T08:16:44Z",
             "owner": "maciej-izak",
@@ -4588,6 +4882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50874419,
             "language": "Pascal",
             "last_commit": "2026-07-02T20:07:32Z",
             "owner": "BeRo1985",
@@ -4602,6 +4897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132114976,
             "language": "Pascal",
             "last_commit": "2023-01-06T13:59:51Z",
             "owner": "PavelMinenkov",
@@ -4616,6 +4912,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41262163,
             "language": "Pascal",
             "last_commit": "2026-05-01T15:08:36Z",
             "owner": "BeRo1985",
@@ -4630,6 +4927,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18880097,
             "language": "Pascal",
             "last_commit": "2026-05-01T09:34:34Z",
             "owner": "pavkam",
@@ -4644,6 +4942,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36909092,
             "language": "Pascal",
             "last_commit": "2018-07-24T07:31:31Z",
             "owner": "TheUnknownOnes",
@@ -4658,6 +4957,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81615527,
             "language": "Pascal",
             "last_commit": "2022-12-28T20:11:34Z",
             "owner": "d-mozulyov",
@@ -4672,6 +4972,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7974926,
             "language": "Pascal",
             "last_commit": "2021-04-05T13:10:11Z",
             "owner": "Avemey",
@@ -4686,8 +4987,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80858136,
             "language": "Pascal",
-            "last_commit": "2026-08-18T09:00:56Z",
+            "last_commit": "2026-08-19T09:01:33Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 77
@@ -4700,6 +5002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36534733,
             "language": "Pascal",
             "last_commit": "2025-03-20T00:12:35Z",
             "owner": "TurboPack",
@@ -4714,6 +5017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445236923,
             "language": "Pascal",
             "last_commit": "2022-06-21T17:17:20Z",
             "owner": "lminuti",
@@ -4728,6 +5032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417635417,
             "language": null,
             "last_commit": "2023-06-30T17:16:04Z",
             "owner": "GabrielOnDelphi",
@@ -4742,6 +5047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283740664,
             "language": "Pascal",
             "last_commit": "2026-08-10T17:08:38Z",
             "owner": "rickard67",
@@ -4756,6 +5062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37459571,
             "language": "Pascal",
             "last_commit": "2024-03-21T19:00:33Z",
             "owner": "davidberneda",
@@ -4770,6 +5077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30936188,
             "language": "Pascal",
             "last_commit": "2019-12-24T20:03:57Z",
             "owner": "d-mozulyov",
@@ -4784,6 +5092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54796717,
             "language": "Pascal",
             "last_commit": "2026-07-01T02:25:39Z",
             "owner": "Xor-el",
@@ -4798,6 +5107,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42059549,
             "language": "Pascal",
             "last_commit": "2015-09-26T12:19:56Z",
             "owner": "SirRufo",
@@ -4812,6 +5122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39200098,
             "language": "Pascal",
             "last_commit": "2018-02-19T22:32:56Z",
             "owner": "Xor-el",
@@ -4826,6 +5137,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 283261101,
             "language": "Pascal",
             "last_commit": "2022-01-22T18:32:22Z",
             "owner": "isemenkov",
@@ -4840,6 +5152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30936056,
             "language": "Pascal",
             "last_commit": "2019-12-24T19:56:26Z",
             "owner": "d-mozulyov",
@@ -4854,6 +5167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110812049,
             "language": "Pascal",
             "last_commit": "2026-01-12T13:03:27Z",
             "owner": "VincentGsell",
@@ -4868,6 +5182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54796839,
             "language": "Pascal",
             "last_commit": "2018-02-19T22:33:57Z",
             "owner": "Xor-el",
@@ -4882,6 +5197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30936295,
             "language": "Pascal",
             "last_commit": "2019-12-24T20:21:00Z",
             "owner": "d-mozulyov",
@@ -4896,6 +5212,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 275816442,
             "language": "Pascal",
             "last_commit": "2021-10-30T06:23:17Z",
             "owner": "isemenkov",
@@ -4910,6 +5227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35685710,
             "language": "Pascal",
             "last_commit": "2018-06-15T12:58:08Z",
             "owner": "guitorres",
@@ -4924,6 +5242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43761085,
             "language": "Pascal",
             "last_commit": "2024-11-07T14:34:05Z",
             "owner": "dezlov",
@@ -4938,6 +5257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240051518,
             "language": "Pascal",
             "last_commit": "2020-02-16T00:14:35Z",
             "owner": "darianmiller",
@@ -4952,6 +5272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183099090,
             "language": "Pascal",
             "last_commit": "2019-04-23T21:51:08Z",
             "owner": "DavidMoraisFerreira",
@@ -4966,6 +5287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200420482,
             "language": "Pascal",
             "last_commit": "2020-07-13T12:59:36Z",
             "owner": "rareMaxim",
@@ -4980,6 +5302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166221657,
             "language": "Pascal",
             "last_commit": "2019-01-18T12:31:39Z",
             "owner": "dsapolska",
@@ -4994,6 +5317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365592365,
             "language": "Pascal",
             "last_commit": "2021-06-22T19:49:15Z",
             "owner": "HemulGM",
@@ -5008,6 +5332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35472564,
             "language": "Pascal",
             "last_commit": "2015-05-12T07:09:43Z",
             "owner": "quartexNOR",
@@ -5022,6 +5347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40039953,
             "language": "Pascal",
             "last_commit": "2015-08-01T08:12:30Z",
             "owner": "thecocce",
@@ -5042,6 +5368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32217857,
             "language": "Pascal",
             "last_commit": "2026-06-05T15:55:06Z",
             "owner": "RRUZ",
@@ -5056,6 +5383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334442684,
             "language": "Pascal",
             "last_commit": "2026-06-03T16:59:45Z",
             "owner": "EtheaDev",
@@ -5070,6 +5398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41302255,
             "language": "Pascal",
             "last_commit": "2025-09-18T10:42:07Z",
             "owner": "landrix",
@@ -5084,6 +5413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12871885,
             "language": "Pascal",
             "last_commit": "2026-08-16T15:03:26Z",
             "owner": "AlexanderBagel",
@@ -5098,6 +5428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381144121,
             "language": "Pascal",
             "last_commit": "2026-07-06T16:03:11Z",
             "owner": "EtheaDev",
@@ -5112,6 +5443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280474385,
             "language": "Pascal",
             "last_commit": "2023-04-21T11:43:34Z",
             "owner": "EdZava",
@@ -5126,6 +5458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 768495706,
             "language": "Pascal",
             "last_commit": "2026-01-23T13:09:07Z",
             "owner": "germanestevez",
@@ -5140,6 +5473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177403915,
             "language": "Pascal",
             "last_commit": "2019-03-27T06:09:08Z",
             "owner": "rareMaxim",
@@ -5151,7 +5485,7 @@
       "title": "OS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5160,6 +5494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -5174,6 +5509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21170001,
             "language": "Pascal",
             "last_commit": "2026-08-06T16:51:22Z",
             "owner": "fortesinformatica",
@@ -5188,6 +5524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157860786,
             "language": "Pascal",
             "last_commit": "2026-01-19T05:19:03Z",
             "owner": "Kryuski",
@@ -5199,7 +5536,7 @@
       "title": "Report generating"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5208,6 +5545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245921,
             "language": "Pascal",
             "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
@@ -5222,6 +5560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9876870,
             "language": "Pascal",
             "last_commit": "2026-08-06T23:00:26Z",
             "owner": "VSoftTechnologies",
@@ -5236,6 +5575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2352347,
             "language": "Pascal",
             "last_commit": "2026-05-25T11:19:22Z",
             "owner": "VSoftTechnologies",
@@ -5250,6 +5590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33356185,
             "language": "Pascal",
             "last_commit": "2017-10-09T07:41:51Z",
             "owner": "jhc-systems",
@@ -5264,6 +5605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15277646,
             "language": "Pascal",
             "last_commit": "2016-10-15T06:26:50Z",
             "owner": "RomanYankovsky",
@@ -5278,6 +5620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14249537,
             "language": "Component Pascal",
             "last_commit": "2017-04-01T23:24:25Z",
             "owner": "deltics",
@@ -5292,6 +5635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562583365,
             "language": "Pascal",
             "last_commit": "2026-05-29T17:00:29Z",
             "owner": "MHumm",
@@ -5306,6 +5650,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4232650,
             "language": "Pascal",
             "last_commit": "2023-05-04T01:09:49Z",
             "owner": "VSoftTechnologies",
@@ -5320,6 +5665,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51303960,
             "language": "Pascal",
             "last_commit": "2019-02-26T09:47:12Z",
             "owner": "michaelJustin",
@@ -5331,7 +5677,7 @@
       "title": "Unit Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5340,11 +5686,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7946450,
             "language": "Pascal",
             "last_commit": "2026-07-03T13:39:06Z",
             "owner": "project-jedi",
             "repo": "jcl",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -5354,6 +5701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67597575,
             "language": "Pascal",
             "last_commit": "2021-06-18T03:37:05Z",
             "owner": "MahdiSafsafi",
@@ -5368,11 +5716,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52427545,
             "language": "Pascal",
             "last_commit": "2024-11-23T17:37:01Z",
             "owner": "marcocantu",
             "repo": "ObjectDebugger",
-            "stars": 107
+            "stars": 106
           }
         },
         {
@@ -5382,6 +5731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352413377,
             "language": "Pascal",
             "last_commit": "2021-04-05T22:01:05Z",
             "owner": "Pigrecos",
@@ -5393,12 +5743,7 @@
       "title": "Debugging / error handling"
     },
     {
-      "description": "Free non-opensource products allowed here.",
-      "items": [],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5407,6 +5752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36473271,
             "language": "Pascal",
             "last_commit": "2026-06-05T16:24:12Z",
             "owner": "RRUZ",
@@ -5421,6 +5767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37482282,
             "language": "Pascal",
             "last_commit": "2021-03-15T14:06:10Z",
             "owner": "Memnarch",
@@ -5435,6 +5782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301807688,
             "language": "Pascal",
             "last_commit": "2025-08-28T15:42:42Z",
             "owner": "ahausladen",
@@ -5449,6 +5797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36909092,
             "language": "Pascal",
             "last_commit": "2018-07-24T07:31:31Z",
             "owner": "TheUnknownOnes",
@@ -5463,6 +5812,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76793482,
             "language": "Pascal",
             "last_commit": "2022-01-04T11:59:47Z",
             "owner": "DGH2112",
@@ -5477,6 +5827,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23265815,
             "language": "Pascal",
             "last_commit": "2019-12-03T09:25:58Z",
             "owner": "LaKraven",
@@ -5491,6 +5842,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177852609,
             "language": "Pascal",
             "last_commit": "2024-12-06T22:09:43Z",
             "owner": "rareMaxim",
@@ -5505,6 +5857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167243579,
             "language": "Pascal",
             "last_commit": "2021-09-19T23:11:26Z",
             "owner": "digao-dalpiaz",
@@ -5519,6 +5872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2221958,
             "language": "Pascal",
             "last_commit": "2015-11-16T09:07:54Z",
             "owner": "Arvur",
@@ -5533,6 +5887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65213780,
             "language": "Pascal",
             "last_commit": "2021-11-29T08:21:58Z",
             "owner": "littleearth",
@@ -5547,6 +5902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76716990,
             "language": "Pascal",
             "last_commit": "2022-01-05T14:07:37Z",
             "owner": "DGH2112",
@@ -5561,6 +5917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76266928,
             "language": "Pascal",
             "last_commit": "2022-04-14T08:39:47Z",
             "owner": "DGH2112",
@@ -5575,6 +5932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722280985,
             "language": "Pascal",
             "last_commit": "2024-01-17T06:12:47Z",
             "owner": "Code4Delphi",
@@ -5589,6 +5947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127334727,
             "language": "C++",
             "last_commit": "2022-04-14T09:02:33Z",
             "owner": "DGH2112",
@@ -5603,6 +5962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160954854,
             "language": "HTML",
             "last_commit": "2025-09-14T11:37:29Z",
             "owner": "DGH2112",
@@ -5617,6 +5977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116375696,
             "language": "Pascal",
             "last_commit": "2022-02-19T12:59:37Z",
             "owner": "DGH2112",
@@ -5631,6 +5992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159099072,
             "language": "Pascal",
             "last_commit": "2018-11-28T02:30:40Z",
             "owner": "littleearth",
@@ -5645,6 +6007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76782203,
             "language": "Pascal",
             "last_commit": "2023-11-14T20:56:14Z",
             "owner": "DGH2112",
@@ -5656,7 +6019,7 @@
       "title": "RAD Studio IDE plugins/wizards"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5665,11 +6028,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42364093,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:30:51Z",
+            "last_commit": "2026-08-18T17:25:48Z",
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -5679,6 +6043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78352838,
             "language": "Java",
             "last_commit": "2023-10-12T21:51:52Z",
             "owner": "casteng",
@@ -5690,7 +6055,7 @@
       "title": "Plugins for other IDE's"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5699,6 +6064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537284545,
             "language": "Java",
             "last_commit": "2026-08-13T04:26:07Z",
             "owner": "integrated-application-development",
@@ -5713,6 +6079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32227095,
             "language": "Pascal",
             "last_commit": "2023-09-05T10:35:11Z",
             "owner": "yavfast",
@@ -5727,6 +6094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34684776,
             "language": "Pascal",
             "last_commit": "2024-06-19T14:52:08Z",
             "owner": "andremussche",
@@ -5741,6 +6109,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115859412,
             "language": "Pascal",
             "last_commit": "2026-07-12T09:07:22Z",
             "owner": "ase379",
@@ -5755,6 +6124,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135383707,
             "language": "Pascal",
             "last_commit": "2026-07-27T19:39:26Z",
             "owner": "DelphiCodeCoverage",
@@ -5769,6 +6139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945238396,
             "language": "Pascal",
             "last_commit": "2026-05-13T15:16:42Z",
             "owner": "andersmelander",
@@ -5783,6 +6154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40250807,
             "language": "Pascal",
             "last_commit": "2015-08-07T08:17:31Z",
             "owner": "VilleKrumlinde",
@@ -5797,6 +6169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131493818,
             "language": "Pascal",
             "last_commit": "2022-04-14T09:28:50Z",
             "owner": "DGH2112",
@@ -5808,7 +6181,7 @@
       "title": "Code check/review, debug"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5817,6 +6190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298175897,
             "language": "Pascal",
             "last_commit": "2026-07-10T04:34:49Z",
             "owner": "corneliusdavid",
@@ -5831,6 +6205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336595323,
             "language": "Pascal",
             "last_commit": "2022-11-29T02:10:44Z",
             "owner": "grijjy",
@@ -5845,6 +6220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64552495,
             "language": "Pascal",
             "last_commit": "2020-09-26T22:02:16Z",
             "owner": "jkour",
@@ -5856,7 +6232,7 @@
       "title": "Setup"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -5865,11 +6241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062897,
             "language": null,
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175359
+            "stars": 175375
           }
         },
         {
@@ -5879,11 +6256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149203429,
             "language": "Go",
             "last_commit": "2026-08-17T12:38:58Z",
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -5893,6 +6271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76147852,
             "language": "Pascal",
             "last_commit": "2018-06-15T13:01:23Z",
             "owner": "WouterVanNifterick",
@@ -5907,6 +6286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134993723,
             "language": "Pascal",
             "last_commit": "2026-04-20T23:14:56Z",
             "owner": "neslib",
@@ -5921,6 +6301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32297143,
             "language": "Pascal",
             "last_commit": "2024-06-15T07:57:48Z",
             "owner": "RRUZ",
@@ -5935,6 +6316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32296539,
             "language": "Pascal",
             "last_commit": "2026-06-05T16:10:09Z",
             "owner": "RRUZ",
@@ -5949,6 +6331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32296027,
             "language": "Pascal",
             "last_commit": "2022-08-11T22:28:31Z",
             "owner": "RRUZ",
@@ -5963,6 +6346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517490524,
             "language": "Pascal",
             "last_commit": "2026-01-22T11:53:18Z",
             "owner": "landgraf-dev",
@@ -5977,6 +6361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78805844,
             "language": "Pascal",
             "last_commit": "2024-02-23T15:41:57Z",
             "owner": "alefragnani",
@@ -5991,6 +6376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945227802,
             "language": "Pascal",
             "last_commit": "2026-07-06T22:30:56Z",
             "owner": "andersmelander",
@@ -6005,6 +6391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24125215,
             "language": "Pascal",
             "last_commit": "2014-09-17T22:10:32Z",
             "owner": "masonwheeler",
@@ -6019,6 +6406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424795885,
             "language": "Pascal",
             "last_commit": "2021-11-05T02:12:29Z",
             "owner": "NickHodges",
@@ -6031,8 +6419,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:11:29.758Z",
+    "last_updated": "2026-08-19T12:44:20.832Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
+    "original_repository_id": 23147424,
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
     "enhanced_repository": "enhansome/enhansome-pascal",
     "enhanced_repository_description": null,
