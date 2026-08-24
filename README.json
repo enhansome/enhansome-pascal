@@ -162,7 +162,7 @@
             "archived": false,
             "id": 226658540,
             "language": "Pascal",
-            "last_commit": "2026-08-22T20:59:09Z",
+            "last_commit": "2026-08-24T15:18:45Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 83
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 60029721,
             "language": "Pascal",
-            "last_commit": "2026-08-24T13:07:07Z",
+            "last_commit": "2026-08-24T15:37:31Z",
             "owner": "graphics32",
             "repo": "graphics32",
             "stars": 462
@@ -831,7 +831,7 @@
             "archived": false,
             "id": 244948203,
             "language": "Pascal",
-            "last_commit": "2026-07-22T21:13:46Z",
+            "last_commit": "2026-08-24T15:41:22Z",
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
             "stars": 197
@@ -1062,7 +1062,7 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-24T12:01:38Z",
+            "last_commit": "2026-08-24T14:23:19Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10952
@@ -3021,7 +3021,7 @@
             "archived": false,
             "id": 306732840,
             "language": "Pascal",
-            "last_commit": "2026-07-31T15:35:36Z",
+            "last_commit": "2026-08-24T15:19:53Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3426,7 +3426,7 @@
             "last_commit": "2026-08-24T11:14:47Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14356
+            "stars": 14357
           }
         },
         {
@@ -3438,7 +3438,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-23T16:34:51Z",
+            "last_commit": "2026-08-24T16:15:11Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 436
@@ -3630,7 +3630,7 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-24T13:34:24Z",
+            "last_commit": "2026-08-24T14:28:58Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 255
@@ -4602,7 +4602,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-23T16:34:51Z",
+            "last_commit": "2026-08-24T16:15:11Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 436
@@ -6246,7 +6246,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175439
+            "stars": 175438
           }
         },
         {
@@ -6419,7 +6419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:56.598Z",
+    "last_updated": "2026-08-24T16:16:50.319Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "original_repository_id": 23147424,
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
