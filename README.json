@@ -87,7 +87,7 @@
             "archived": false,
             "id": 19535520,
             "language": "Pascal",
-            "last_commit": "2026-08-24T13:34:45Z",
+            "last_commit": "2026-08-25T07:08:28Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 401
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 60029721,
             "language": "Pascal",
-            "last_commit": "2026-08-24T22:35:30Z",
+            "last_commit": "2026-08-25T15:08:59Z",
             "owner": "graphics32",
             "repo": "graphics32",
             "stars": 462
@@ -1197,7 +1197,7 @@
             "archived": false,
             "id": 1099447279,
             "language": "Pascal",
-            "last_commit": "2026-08-21T22:29:03Z",
+            "last_commit": "2026-08-25T16:01:51Z",
             "owner": "cesarliws",
             "repo": "dext",
             "stars": 310
@@ -1290,7 +1290,7 @@
             "last_commit": "2022-12-12T08:33:21Z",
             "owner": "ultraware",
             "repo": "DelphiGrpc",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -2322,7 +2322,7 @@
             "archived": false,
             "id": 29590515,
             "language": "Pascal",
-            "last_commit": "2026-08-24T13:44:59Z",
+            "last_commit": "2026-08-25T06:55:34Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 734
@@ -2538,7 +2538,7 @@
             "archived": false,
             "id": 32381703,
             "language": "Pascal",
-            "last_commit": "2026-08-20T12:17:31Z",
+            "last_commit": "2026-08-25T11:38:38Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 191
@@ -3021,7 +3021,7 @@
             "archived": false,
             "id": 306732840,
             "language": "Pascal",
-            "last_commit": "2026-08-24T15:19:53Z",
+            "last_commit": "2026-08-25T15:36:23Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3426,7 +3426,7 @@
             "last_commit": "2026-08-25T03:44:25Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14371
+            "stars": 14382
           }
         },
         {
@@ -3438,7 +3438,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-24T23:28:21Z",
+            "last_commit": "2026-08-25T13:25:52Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -3630,7 +3630,7 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-24T20:03:08Z",
+            "last_commit": "2026-08-25T14:53:42Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 255
@@ -4173,7 +4173,7 @@
             "archived": false,
             "id": 94584465,
             "language": "Pascal",
-            "last_commit": "2026-08-24T05:01:18Z",
+            "last_commit": "2026-08-25T16:16:26Z",
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
             "stars": 154
@@ -4602,7 +4602,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-24T23:28:21Z",
+            "last_commit": "2026-08-25T13:25:52Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -4989,7 +4989,7 @@
             "archived": false,
             "id": 80858136,
             "language": "Pascal",
-            "last_commit": "2026-08-24T09:01:02Z",
+            "last_commit": "2026-08-25T09:00:55Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 77
@@ -6246,7 +6246,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175443
+            "stars": 175444
           }
         },
         {
@@ -6419,7 +6419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:48.324Z",
+    "last_updated": "2026-08-25T16:19:37.163Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "original_repository_id": 23147424,
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
