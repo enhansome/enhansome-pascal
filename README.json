@@ -87,10 +87,10 @@
             "archived": false,
             "id": 19535520,
             "language": "Pascal",
-            "last_commit": "2026-08-25T07:08:28Z",
+            "last_commit": "2026-08-26T15:00:49Z",
             "owner": "cnpack",
             "repo": "cnvcl",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2025-10-07T18:41:55Z",
             "owner": "HemulGM",
             "repo": "FMXAudio",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-20T16:32:04Z",
             "owner": "skia4delphi",
             "repo": "skia4delphi",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 60029721,
             "language": "Pascal",
-            "last_commit": "2026-08-25T15:08:59Z",
+            "last_commit": "2026-08-26T16:38:14Z",
             "owner": "graphics32",
             "repo": "graphics32",
-            "stars": 462
+            "stars": 463
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2019-04-07T13:07:14Z",
             "owner": "edivando-fpc",
             "repo": "BGRABitmap",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -816,7 +816,7 @@
             "archived": false,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-24T22:40:36Z",
+            "last_commit": "2026-08-26T08:54:58Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 225
@@ -944,21 +944,6 @@
         },
         {
           "node_type": "item",
-          "title": "ZenGL",
-          "description": ". OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 301034231,
-            "language": "Pascal",
-            "last_commit": "2023-09-29T21:37:45Z",
-            "owner": "Seenkao",
-            "repo": "New-ZenGL",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TileEngine",
           "description": ". (GitHub) OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.",
           "children": [],
@@ -969,6 +954,21 @@
             "last_commit": "2021-05-30T20:56:18Z",
             "owner": "turric4n",
             "repo": "PascalTileEngine",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZenGL",
+          "description": ". OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 301034231,
+            "language": "Pascal",
+            "last_commit": "2023-09-29T21:37:45Z",
+            "owner": "Seenkao",
+            "repo": "New-ZenGL",
             "stars": 48
           }
         },
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-08-24T14:23:19Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10952
+            "stars": 10953
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2026-08-23T17:00:54Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1397
+            "stars": 1399
           }
         },
         {
@@ -1092,10 +1092,10 @@
             "archived": false,
             "id": 150807317,
             "language": "Pascal",
-            "last_commit": "2026-08-19T14:42:59Z",
+            "last_commit": "2026-08-25T22:34:38Z",
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-16T00:36:57Z",
             "owner": "winddriver",
             "repo": "Delphi-Cross-Socket",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1197,10 +1197,10 @@
             "archived": false,
             "id": 1099447279,
             "language": "Pascal",
-            "last_commit": "2026-08-25T16:01:51Z",
+            "last_commit": "2026-08-25T18:45:00Z",
             "owner": "cesarliws",
             "repo": "dext",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -2166,10 +2166,10 @@
             "archived": false,
             "id": 267178383,
             "language": "Pascal",
-            "last_commit": "2026-08-17T22:27:09Z",
+            "last_commit": "2026-08-26T03:55:45Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -2397,10 +2397,10 @@
             "archived": false,
             "id": 72719720,
             "language": "Pascal",
-            "last_commit": "2026-07-31T16:53:16Z",
+            "last_commit": "2026-08-25T17:54:56Z",
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -3021,7 +3021,7 @@
             "archived": false,
             "id": 306732840,
             "language": "Pascal",
-            "last_commit": "2026-08-25T15:36:23Z",
+            "last_commit": "2026-08-26T15:00:45Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3126,7 +3126,7 @@
             "archived": false,
             "id": 61213087,
             "language": "Pascal",
-            "last_commit": "2026-08-24T21:25:48Z",
+            "last_commit": "2026-08-26T15:35:25Z",
             "owner": "mauriziodm",
             "repo": "iORM",
             "stars": 57
@@ -3255,7 +3255,7 @@
             "last_commit": "2025-11-26T11:54:48Z",
             "owner": "lmbelo",
             "repo": "python4delphi",
-            "stars": 1057
+            "stars": 1056
           }
         },
         {
@@ -3426,7 +3426,7 @@
             "last_commit": "2026-08-25T03:44:25Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14382
+            "stars": 14410
           }
         },
         {
@@ -3438,7 +3438,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-25T13:25:52Z",
+            "last_commit": "2026-08-26T10:52:21Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -3615,7 +3615,7 @@
             "archived": false,
             "id": 62994881,
             "language": "Assembly",
-            "last_commit": "2026-07-29T08:23:01Z",
+            "last_commit": "2026-08-26T00:21:41Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
             "stars": 267
@@ -3630,7 +3630,7 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-25T14:53:42Z",
+            "last_commit": "2026-08-26T16:30:29Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 255
@@ -3864,7 +3864,7 @@
             "last_commit": "2024-06-17T10:58:50Z",
             "owner": "PKGeorgiev",
             "repo": "Delphi-JsonToDelphiClass",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -3999,7 +3999,7 @@
             "last_commit": "2017-12-18T10:49:24Z",
             "owner": "tmcdos",
             "repo": "tiny-json",
-            "stars": 16
+            "stars": 14
           }
         },
         {
@@ -4158,7 +4158,7 @@
             "archived": false,
             "id": 247436869,
             "language": "Pascal",
-            "last_commit": "2026-08-18T14:32:38Z",
+            "last_commit": "2026-08-25T19:59:59Z",
             "owner": "pleriche",
             "repo": "FastMM5",
             "stars": 335
@@ -4173,7 +4173,7 @@
             "archived": false,
             "id": 94584465,
             "language": "Pascal",
-            "last_commit": "2026-08-25T16:16:26Z",
+            "last_commit": "2026-08-26T15:28:02Z",
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
             "stars": 154
@@ -4602,7 +4602,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-25T13:25:52Z",
+            "last_commit": "2026-08-26T10:52:21Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -4812,7 +4812,7 @@
             "last_commit": "2026-07-08T08:16:12Z",
             "owner": "andgineer",
             "repo": "TRegExpr",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -4989,7 +4989,7 @@
             "archived": false,
             "id": 80858136,
             "language": "Pascal",
-            "last_commit": "2026-08-25T09:00:55Z",
+            "last_commit": "2026-08-26T09:01:35Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 77
@@ -6066,10 +6066,10 @@
             "archived": false,
             "id": 537284545,
             "language": "Java",
-            "last_commit": "2026-08-24T01:54:14Z",
+            "last_commit": "2026-08-26T06:06:03Z",
             "owner": "integrated-application-development",
             "repo": "sonar-delphi",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -6243,10 +6243,10 @@
             "archived": false,
             "id": 1062897,
             "language": null,
-            "last_commit": "2026-07-23T16:06:45Z",
+            "last_commit": "2026-08-25T17:02:50Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175444
+            "stars": 175462
           }
         },
         {
@@ -6419,7 +6419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:19:37.163Z",
+    "last_updated": "2026-08-26T16:38:43.732Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "original_repository_id": 23147424,
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
