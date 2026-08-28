@@ -87,7 +87,7 @@
             "archived": false,
             "id": 19535520,
             "language": "Pascal",
-            "last_commit": "2026-08-27T10:00:49Z",
+            "last_commit": "2026-08-27T15:12:57Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 402
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 60029721,
             "language": "Pascal",
-            "last_commit": "2026-08-27T11:43:06Z",
+            "last_commit": "2026-08-27T23:00:43Z",
             "owner": "graphics32",
             "repo": "graphics32",
             "stars": 463
@@ -816,7 +816,7 @@
             "archived": false,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-27T11:36:23Z",
+            "last_commit": "2026-08-28T00:16:39Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 225
@@ -834,7 +834,7 @@
             "last_commit": "2026-08-24T22:24:19Z",
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-08-09T11:43:44Z",
             "owner": "GuvaCode",
             "repo": "ray4laz",
-            "stars": 178
+            "stars": 175
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2025-08-19T21:02:24Z",
             "owner": "Coldzer0",
             "repo": "ImGui-Pascal",
-            "stars": 79
+            "stars": 78
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-24T14:23:19Z",
+            "last_commit": "2026-08-28T00:10:35Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10954
@@ -2400,7 +2400,7 @@
             "last_commit": "2026-08-26T17:41:10Z",
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -2538,7 +2538,7 @@
             "archived": false,
             "id": 32381703,
             "language": "Pascal",
-            "last_commit": "2026-08-27T11:30:31Z",
+            "last_commit": "2026-08-27T23:49:41Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 191
@@ -3021,7 +3021,7 @@
             "archived": false,
             "id": 306732840,
             "language": "Pascal",
-            "last_commit": "2026-08-26T15:00:45Z",
+            "last_commit": "2026-08-27T20:47:18Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3126,7 +3126,7 @@
             "archived": false,
             "id": 61213087,
             "language": "Pascal",
-            "last_commit": "2026-08-26T20:34:23Z",
+            "last_commit": "2026-08-27T21:29:06Z",
             "owner": "mauriziodm",
             "repo": "iORM",
             "stars": 57
@@ -3426,7 +3426,7 @@
             "last_commit": "2026-08-25T03:44:25Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14426
+            "stars": 14438
           }
         },
         {
@@ -3438,7 +3438,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-27T02:58:15Z",
+            "last_commit": "2026-08-27T23:18:55Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -3603,7 +3603,7 @@
             "last_commit": "2026-08-23T19:15:48Z",
             "owner": "MHumm",
             "repo": "DelphiEncryptionCompendium",
-            "stars": 286
+            "stars": 285
           }
         },
         {
@@ -3618,7 +3618,7 @@
             "last_commit": "2026-08-26T00:21:41Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
-            "stars": 267
+            "stars": 265
           }
         },
         {
@@ -3630,10 +3630,10 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-27T11:26:12Z",
+            "last_commit": "2026-08-27T15:11:11Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
-            "stars": 255
+            "stars": 254
           }
         },
         {
@@ -3816,7 +3816,7 @@
             "archived": false,
             "id": 175992466,
             "language": "Pascal",
-            "last_commit": "2026-08-24T07:32:15Z",
+            "last_commit": "2026-08-27T12:51:12Z",
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
             "stars": 358
@@ -4602,7 +4602,7 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-27T02:58:15Z",
+            "last_commit": "2026-08-27T23:18:55Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
@@ -5217,7 +5217,7 @@
             "last_commit": "2021-10-30T06:23:17Z",
             "owner": "isemenkov",
             "repo": "libpasc-algorithms",
-            "stars": 28
+            "stars": 27
           }
         },
         {
@@ -5388,7 +5388,7 @@
             "last_commit": "2026-06-03T16:59:45Z",
             "owner": "EtheaDev",
             "repo": "SVGShellExtensions",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -6033,7 +6033,7 @@
             "last_commit": "2026-08-18T17:25:48Z",
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
-            "stars": 270
+            "stars": 269
           }
         },
         {
@@ -6246,7 +6246,7 @@
             "last_commit": "2026-08-25T17:02:50Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175470
+            "stars": 175479
           }
         },
         {
@@ -6306,7 +6306,7 @@
             "last_commit": "2024-06-15T07:57:48Z",
             "owner": "RRUZ",
             "repo": "wmi-delphi-code-creator",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -6419,7 +6419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:18.146Z",
+    "last_updated": "2026-08-28T00:37:19.940Z",
     "original_repository_info": {
       "archived": false,
       "id": 23147424,
@@ -6427,7 +6427,7 @@
       "last_commit": "2026-02-27T16:04:57Z",
       "owner": "Fr0sT-Brutal",
       "repo": "awesome-pascal",
-      "stars": 2078
+      "stars": 2077
     },
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
     "enhanced_repository": "enhansome/enhansome-pascal",
