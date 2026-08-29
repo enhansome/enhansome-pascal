@@ -16,7 +16,8 @@
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "project-jedi",
             "repo": "jcl",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "exilon",
             "repo": "QuickLib",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "project-jedi",
             "repo": "jvcl",
             "stars": 668
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 19535520,
             "language": "Pascal",
-            "last_commit": "2026-08-27T15:12:57Z",
+            "last_commit": "2026-08-28T14:23:49Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "andrea-magni",
             "repo": "MARS",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "grijjy",
             "repo": "GrijjyFoundation",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Steema",
             "repo": "TeeBI",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "TheUnknownOnes",
             "repo": "theunknownones",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 226658540,
             "language": "Pascal",
-            "last_commit": "2026-08-27T11:11:42Z",
+            "last_commit": "2026-08-28T19:19:24Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "fundamentalslib",
             "repo": "fundamentals4",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mirko-bianco",
             "repo": "FidoLib",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "LaKraven",
             "repo": "ADAPT",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "pierrejean-coudert",
             "repo": "ReduxDelphi",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "General Libraries"
@@ -247,7 +262,8 @@
             "owner": "HemulGM",
             "repo": "FMXAudio",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "TDDung",
             "repo": "Delphi-BASS",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Audio"
@@ -283,7 +300,8 @@
             "owner": "Laex",
             "repo": "Delphi-OpenCV",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "micha137",
             "repo": "dspack-continued-mirror-for-delphinus",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "dpethes",
             "repo": "fevh264",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Video"
@@ -334,7 +354,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "skia4delphi",
             "repo": "skia4delphi",
             "stars": 781
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "Spelt",
             "repo": "ZXing.Delphi",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -375,11 +398,12 @@
             "archived": false,
             "id": 60029721,
             "language": "Pascal",
-            "last_commit": "2026-08-27T23:00:43Z",
+            "last_commit": "2026-08-28T23:43:50Z",
             "owner": "graphics32",
             "repo": "graphics32",
-            "stars": 463
-          }
+            "stars": 464
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "EtheaDev",
             "repo": "SVGIconImageList",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "synopse",
             "repo": "SynPDF",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "EtheaDev",
             "repo": "IconFontsImageList",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "ahausladen",
             "repo": "PdfiumLib",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "galfar",
             "repo": "imaginglib",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "TurboPack",
             "repo": "PowerPDF",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "mike-lischke",
             "repo": "GraphicEx",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "landrix",
             "repo": "Zint-Barcode-Generator-for-Delphi",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "exilon",
             "repo": "QuickImageFX",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "SaschaWillems",
             "repo": "dglOpenGL",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "CWBudde",
             "repo": "AggPasMod",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "MichaelDemidov",
             "repo": "DelphiZXingQRCodeEx",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "kryslt",
             "repo": "KControls",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "sybrexsys",
             "repo": "llPDFLib",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "lminuti",
             "repo": "FontIconEditor",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "WouterVanNifterick",
             "repo": "delphi-shader",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "vintagedave",
             "repo": "transparent-canvas",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "Memnarch",
             "repo": "AsciiImage",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "UweRaabe",
             "repo": "PngComponents",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "vintagedave",
             "repo": "fully-justified-text",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "Memnarch",
             "repo": "Mundus",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "daar",
             "repo": "GLPT",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "cutec-chris",
             "repo": "dexif",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "GabrielOnDelphi",
             "repo": "Delphi-SSIM-ImageQuality",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "fatihtsp",
             "repo": "Blen2d4Delphi",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "edivando-fpc",
             "repo": "BGRABitmap",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "JanOosting",
             "repo": "delphidmtx",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Graphic"
@@ -801,11 +852,12 @@
             "archived": false,
             "id": 30114388,
             "language": "Pascal",
-            "last_commit": "2026-08-24T03:28:43Z",
+            "last_commit": "2026-08-28T11:33:09Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
             "stars": 1237
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -816,11 +868,12 @@
             "archived": false,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-28T00:16:39Z",
+            "last_commit": "2026-08-28T23:39:49Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "GuvaCode",
             "repo": "ray4laz",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "BeRo1985",
             "repo": "kraft",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "ev1313",
             "repo": "Pascal-SDL-2-Headers",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "BrokenGamesUG",
             "repo": "delphi3d-engine",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "Coldzer0",
             "repo": "ImGui-Pascal",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "CWBudde",
             "repo": "PasSFML",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "turborium",
             "repo": "TurboRaylib",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "turric4n",
             "repo": "PascalTileEngine",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1032,8 @@
             "owner": "Seenkao",
             "repo": "New-ZenGL",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1048,8 @@
             "owner": "d-mozulyov",
             "repo": "CrystalPathFinding",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1064,8 @@
             "owner": "niuniomartinez",
             "repo": "allegro-pas",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1080,8 @@
             "owner": "Kromster80",
             "repo": "RecastNavigationDelphi",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "kenjones007",
             "repo": "DarkGlass",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1112,8 @@
             "owner": "DosWorld",
             "repo": "abmaze",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Game dev"
@@ -1062,11 +1130,12 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-28T00:10:35Z",
+            "last_commit": "2026-08-28T23:10:25Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10954
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1150,8 @@
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1400
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1092,11 +1162,12 @@
             "archived": false,
             "id": 150807317,
             "language": "Pascal",
-            "last_commit": "2026-08-25T22:34:38Z",
+            "last_commit": "2026-08-28T19:19:35Z",
             "owner": "HashLoad",
             "repo": "horse",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1182,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1198,8 @@
             "owner": "viniciussanchez",
             "repo": "RESTRequest4Delphi",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1214,8 @@
             "owner": "IndySockets",
             "repo": "Indy",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1230,8 @@
             "owner": "paolo-rossi",
             "repo": "delphi-jose-jwt",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1246,8 @@
             "owner": "winddriver",
             "repo": "Delphi-Cross-Socket",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1182,11 +1258,12 @@
             "archived": false,
             "id": 79719063,
             "language": "Pascal",
-            "last_commit": "2026-02-21T11:31:29Z",
+            "last_commit": "2026-08-28T21:43:10Z",
             "owner": "torokernel",
             "repo": "torokernel",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1197,11 +1274,12 @@
             "archived": false,
             "id": 1099447279,
             "language": "Pascal",
-            "last_commit": "2026-08-26T17:59:23Z",
+            "last_commit": "2026-08-28T18:36:12Z",
             "owner": "dotpas",
             "repo": "dext",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1294,8 @@
             "owner": "risoflora",
             "repo": "brookframework",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1310,8 @@
             "owner": "delphi-blocks",
             "repo": "WiRL",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "ymofen",
             "repo": "diocp-v5",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1342,8 @@
             "owner": "DelphiBuilder",
             "repo": "NetCom7",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1358,8 @@
             "owner": "SchneiderInfosystems",
             "repo": "FB4D",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1374,8 @@
             "owner": "ultraware",
             "repo": "DelphiGrpc",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1390,8 @@
             "owner": "teppicom",
             "repo": "RealThinClient-SDK",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1406,8 @@
             "owner": "pjde",
             "repo": "delphi-mqtt",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1422,8 @@
             "owner": "lminuti",
             "repo": "Delphi-OpenSSL",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1438,8 @@
             "owner": "michaelJustin",
             "repo": "daraja-framework",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1454,8 @@
             "owner": "geby",
             "repo": "synapse",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1470,8 @@
             "owner": "danieleteti",
             "repo": "delphistompclient",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1486,8 @@
             "owner": "bvarga",
             "repo": "delphizmq",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1502,8 @@
             "owner": "coassoftwaresystems",
             "repo": "delphi-modbus",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1518,8 @@
             "owner": "grijjy",
             "repo": "DelphiZeroMQ",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1534,8 @@
             "owner": "hprose",
             "repo": "hprose-delphi",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1550,8 @@
             "owner": "Warfley",
             "repo": "LazWebsockets",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1566,8 @@
             "owner": "mateusvicente100",
             "repo": "bird-socket-server",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1582,8 @@
             "owner": "pult",
             "repo": "libssh2_delphi",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1598,8 @@
             "owner": "isemenkov",
             "repo": "libpascurl",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1614,8 @@
             "owner": "norgepaul",
             "repo": "DelphiKafkaClient",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1630,8 @@
             "owner": "almindor",
             "repo": "lnet",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1646,8 @@
             "owner": "stijnsanders",
             "repo": "xxm",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1662,8 @@
             "owner": "HeZiHang",
             "repo": "Delphi-RabbitMQ",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1678,8 @@
             "owner": "bkeevil",
             "repo": "mqtt",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1694,8 @@
             "owner": "Fr0sT-Brutal",
             "repo": "Delphi_SChannelTLS",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1710,8 @@
             "owner": "EtheaDev",
             "repo": "kitto",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1726,8 @@
             "owner": "HeZiHang",
             "repo": "Delphi-Kafka",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1636,7 +1742,8 @@
             "owner": "kami-soft",
             "repo": "NamedPipeExchange",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1651,7 +1758,8 @@
             "owner": "biot2",
             "repo": "WebSocket.pas",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1666,7 +1774,8 @@
             "owner": "besasoftware",
             "repo": "besasoap",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1790,8 @@
             "owner": "dinmil",
             "repo": "KafkaGate",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1806,8 @@
             "owner": "tml21",
             "repo": "libtml-pascal",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1822,8 @@
             "owner": "MFernstrom",
             "repo": "Bauglir-WebSocket-2",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1838,8 @@
             "owner": "biot2",
             "repo": "nats.pas",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1854,8 @@
             "owner": "terrylao",
             "repo": "voice_communication",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1870,8 @@
             "owner": "HemulGM",
             "repo": "HGMJabberClient",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Network"
@@ -1777,7 +1892,8 @@
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1908,8 @@
             "owner": "landgraf-dev",
             "repo": "aws-sdk-delphi",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1924,8 @@
             "owner": "googleapi",
             "repo": "googleapi",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1940,8 @@
             "owner": "Al-Muhandis",
             "repo": "fp-telegram",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1956,8 @@
             "owner": "p-samuel",
             "repo": "ntfy-for-delphi",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1972,8 @@
             "owner": "andrea-magni",
             "repo": "SDriver",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1988,8 @@
             "owner": "rareMaxim",
             "repo": "TelegaPi",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +2004,8 @@
             "owner": "HemulGM",
             "repo": "TGBotMini",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2020,8 @@
             "owner": "HemulGM",
             "repo": "VK_API",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2036,8 @@
             "owner": "monde-sistemas",
             "repo": "delphi-aws-ses",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2052,8 @@
             "owner": "monde-sistemas",
             "repo": "delphi-slackbot",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2068,8 @@
             "owner": "littleearth",
             "repo": "delphiXERO",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2084,8 @@
             "owner": "HemulGM",
             "repo": "IPInfo_API",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2100,8 @@
             "owner": "HemulGM",
             "repo": "ImgBB.API",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -1987,7 +2116,8 @@
             "owner": "HemulGM",
             "repo": "OWM_API",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Cloud & remote services"
@@ -2008,7 +2138,8 @@
             "owner": "felHR85",
             "repo": "UsbSerial",
             "stars": 1948
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2023,7 +2154,8 @@
             "owner": "geby",
             "repo": "synapse",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2038,7 +2170,8 @@
             "owner": "TurboPack",
             "repo": "AsyncPro",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2053,7 +2186,8 @@
             "owner": "CWBudde",
             "repo": "ComPort-Library",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2068,7 +2202,8 @@
             "owner": "MHumm",
             "repo": "ComPortDriver",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Serial port"
@@ -2089,7 +2224,8 @@
             "owner": "spinettaro",
             "repo": "delphi-event-bus",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2104,7 +2240,8 @@
             "owner": "dalijap",
             "repo": "nx-horizon",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2119,7 +2256,8 @@
             "owner": "VSoftTechnologies",
             "repo": "VSoft.Messaging",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2272,8 @@
             "owner": "viniciusfbb",
             "repo": "ipub-messaging",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2149,7 +2288,8 @@
             "owner": "global-system",
             "repo": "DelphiEventBus",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Event bus"
@@ -2170,7 +2310,8 @@
             "owner": "DelphiWorlds",
             "repo": "Kastri",
             "stars": 597
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2326,8 @@
             "owner": "errorcalc",
             "repo": "FreeEsVclComponents",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2342,8 @@
             "owner": "ying32",
             "repo": "liblcl",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2358,8 @@
             "owner": "jackdp",
             "repo": "JPPack",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2374,8 @@
             "owner": "TurboPack",
             "repo": "Orpheus",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2390,8 @@
             "owner": "tonghoangvu",
             "repo": "DelphiUCL",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2406,8 @@
             "owner": "SilverpointDev",
             "repo": "sptbxlib",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2422,8 @@
             "owner": "kryslt",
             "repo": "KControls",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2438,8 @@
             "owner": "TurboPack",
             "repo": "Essentials",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2454,8 @@
             "owner": "beNative",
             "repo": "dduce",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Control packs"
@@ -2322,11 +2472,12 @@
             "archived": false,
             "id": 29590515,
             "language": "Pascal",
-            "last_commit": "2026-08-25T06:55:34Z",
+            "last_commit": "2026-08-28T09:28:52Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2341,7 +2492,8 @@
             "owner": "hgourvest",
             "repo": "dcef3",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2356,7 +2508,8 @@
             "owner": "andrea-magni",
             "repo": "TFrameStand",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2371,7 +2524,8 @@
             "owner": "norgepaul",
             "repo": "TChromeTabs",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2386,7 +2540,8 @@
             "owner": "digao-dalpiaz",
             "repo": "DzHTMLText",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2401,7 +2556,8 @@
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2416,7 +2572,8 @@
             "owner": "MahdiSafsafi",
             "repo": "zControls",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2431,7 +2588,8 @@
             "owner": "Alexey-T",
             "repo": "ATFlatControls",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2446,7 +2604,8 @@
             "owner": "benibela",
             "repo": "treelistview",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2461,7 +2620,8 @@
             "owner": "jkour",
             "repo": "neTabControl",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2476,7 +2636,8 @@
             "owner": "TurboPack",
             "repo": "MustangpeakEasyListview",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2491,7 +2652,8 @@
             "owner": "DenisAnisimov",
             "repo": "decTreeView",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2506,7 +2668,8 @@
             "owner": "landrix",
             "repo": "TPrintPreview-for-Delphi",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Single controls"
@@ -2526,8 +2689,9 @@
             "last_commit": "2026-08-18T21:00:17Z",
             "owner": "TurboPack",
             "repo": "SynEdit",
-            "stars": 268
-          }
+            "stars": 269
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2538,11 +2702,12 @@
             "archived": false,
             "id": 32381703,
             "language": "Pascal",
-            "last_commit": "2026-08-27T23:49:41Z",
+            "last_commit": "2026-08-28T22:02:01Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2556,8 +2721,9 @@
             "last_commit": "2021-02-06T21:26:02Z",
             "owner": "karser",
             "repo": "QDSEquations",
-            "stars": 44
-          }
+            "stars": 45
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2572,7 +2738,8 @@
             "owner": "LaKraven",
             "repo": "TBCEditor",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Editors"
@@ -2593,7 +2760,8 @@
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
             "stars": 1332
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2608,7 +2776,8 @@
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
             "stars": 441
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2619,11 +2788,12 @@
             "archived": false,
             "id": 434739397,
             "language": "Pascal",
-            "last_commit": "2026-08-03T17:30:50Z",
+            "last_commit": "2026-08-28T09:07:26Z",
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2638,7 +2808,8 @@
             "owner": "da-baranov",
             "repo": "SciDe",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2653,7 +2824,8 @@
             "owner": "Alexey-T",
             "repo": "ATViewer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2668,7 +2840,8 @@
             "owner": "Alexey-T",
             "repo": "ATViewer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2683,7 +2856,8 @@
             "owner": "Alexey-T",
             "repo": "ATViewer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2698,7 +2872,8 @@
             "owner": "Alexey-T",
             "repo": "ATViewer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Viewers"
@@ -2719,7 +2894,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2734,7 +2910,8 @@
             "owner": "RRUZ",
             "repo": "vcl-styles-utils",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2749,7 +2926,8 @@
             "owner": "JAM-Software",
             "repo": "RibbonFramework",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2764,7 +2942,8 @@
             "owner": "digao-dalpiaz",
             "repo": "Dam",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2779,7 +2958,8 @@
             "owner": "cfyzium",
             "repo": "bearlibterminal",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2794,7 +2974,8 @@
             "owner": "vintagedave",
             "repo": "firemonkey-container",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2809,7 +2990,8 @@
             "owner": "TheUnknownOnes",
             "repo": "theunknownones",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2823,8 +3005,9 @@
             "last_commit": "2019-06-02T17:33:23Z",
             "owner": "havlicekp",
             "repo": "form-designer",
-            "stars": 81
-          }
+            "stars": 82
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2839,7 +3022,8 @@
             "owner": "WladiD",
             "repo": "AnyiQuack",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2854,7 +3038,8 @@
             "owner": "yktoo",
             "repo": "dklang",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2869,7 +3054,8 @@
             "owner": "albertodev01",
             "repo": "TLanguages",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2884,7 +3070,8 @@
             "owner": "HemulGM",
             "repo": "FMXTrayIcon",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2899,7 +3086,8 @@
             "owner": "GabrielOnDelphi",
             "repo": "Dephi-GUI-AutoSave",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2914,7 +3102,8 @@
             "owner": "EverestSoftwareLLC",
             "repo": "BitMapEditor-Delphi",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2929,7 +3118,8 @@
             "owner": "bero",
             "repo": "GMLibrary",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Other GUI"
@@ -2950,7 +3140,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2965,7 +3156,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2980,7 +3172,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -2995,7 +3188,8 @@
             "owner": "danieleteti",
             "repo": "delphiredisclient",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3010,7 +3204,8 @@
             "owner": "danieleteti",
             "repo": "delphi-orm",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3021,11 +3216,12 @@
             "archived": false,
             "id": 306732840,
             "language": "Pascal",
-            "last_commit": "2026-08-27T20:47:18Z",
+            "last_commit": "2026-08-28T16:04:38Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3040,7 +3236,8 @@
             "owner": "plashenkov",
             "repo": "SQLite3-Delphi-FPC",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3055,7 +3252,8 @@
             "owner": "EtheaDev",
             "repo": "InstantObjects",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3070,7 +3268,8 @@
             "owner": "exilon",
             "repo": "QuickORM",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3085,7 +3284,8 @@
             "owner": "grijjy",
             "repo": "DelphiMongoDB",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3100,7 +3300,8 @@
             "owner": "ccy",
             "repo": "txquery",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3115,7 +3316,8 @@
             "owner": "hgourvest",
             "repo": "uib",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3126,11 +3328,12 @@
             "archived": false,
             "id": 61213087,
             "language": "Pascal",
-            "last_commit": "2026-08-27T21:29:06Z",
+            "last_commit": "2026-08-28T10:08:24Z",
             "owner": "mauriziodm",
             "repo": "iORM",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3145,7 +3348,8 @@
             "owner": "remobjects",
             "repo": "ASQLite3",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3160,7 +3364,8 @@
             "owner": "grijjy",
             "repo": "DelphiCassandra",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3175,7 +3380,8 @@
             "owner": "leledumbo",
             "repo": "ghORM",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3190,7 +3396,8 @@
             "owner": "graemeg",
             "repo": "tiopf",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3205,7 +3412,8 @@
             "owner": "grijjy",
             "repo": "DelphiCouchbase",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3220,7 +3428,8 @@
             "owner": "ultraware",
             "repo": "d-ORModel",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3235,7 +3444,8 @@
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Database"
@@ -3256,7 +3466,8 @@
             "owner": "lmbelo",
             "repo": "python4delphi",
             "stars": 1056
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3271,7 +3482,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3286,7 +3498,8 @@
             "owner": "project-jedi",
             "repo": "jvcl",
             "stars": 668
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3301,7 +3514,8 @@
             "owner": "remobjects",
             "repo": "pascalscript",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3315,8 +3529,9 @@
             "last_commit": "2026-05-01T15:08:33Z",
             "owner": "BeRo1985",
             "repo": "besen",
-            "stars": 231
-          }
+            "stars": 232
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3331,7 +3546,8 @@
             "owner": "tondrej",
             "repo": "chakracore-delphi",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3346,7 +3562,8 @@
             "owner": "Dennis1000",
             "repo": "verysimplelua",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3361,7 +3578,8 @@
             "owner": "Coldzer0",
             "repo": "QuickJS-Pascal",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3376,7 +3594,8 @@
             "owner": "d-mozulyov",
             "repo": "CrystalLUA",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3391,7 +3610,8 @@
             "owner": "danieleteti",
             "repo": "lua4delphi",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3406,7 +3626,8 @@
             "owner": "horazont",
             "repo": "thorium",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Scripting"
@@ -3423,11 +3644,12 @@
             "archived": false,
             "id": 531380835,
             "language": "C++",
-            "last_commit": "2026-08-25T03:44:25Z",
+            "last_commit": "2026-08-28T14:13:31Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14438
-          }
+            "stars": 14462
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3438,11 +3660,12 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-27T23:18:55Z",
+            "last_commit": "2026-08-28T23:43:15Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3457,7 +3680,8 @@
             "owner": "Pigrecos",
             "repo": "TensorFlow.Delphi",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3472,7 +3696,8 @@
             "owner": "ariaghora",
             "repo": "noe",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3487,7 +3712,8 @@
             "owner": "Pigrecos",
             "repo": "Keras4Delphi",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3502,7 +3728,8 @@
             "owner": "marvinbraga",
             "repo": "Marvin.IA",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3517,7 +3744,8 @@
             "owner": "inversed-ru",
             "repo": "Ascension",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Machine Learning"
@@ -3538,7 +3766,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3553,7 +3782,8 @@
             "owner": "TurboPack",
             "repo": "Abbrevia",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3568,7 +3798,8 @@
             "owner": "AlexanderBagel",
             "repo": "FWZip",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Compression"
@@ -3589,7 +3820,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3604,7 +3836,8 @@
             "owner": "MHumm",
             "repo": "DelphiEncryptionCompendium",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3619,7 +3852,8 @@
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3630,11 +3864,12 @@
             "archived": false,
             "id": 117853224,
             "language": "Pascal",
-            "last_commit": "2026-08-27T15:11:11Z",
+            "last_commit": "2026-08-28T20:27:53Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3649,7 +3884,8 @@
             "owner": "viniciussanchez",
             "repo": "bcrypt",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3664,7 +3900,8 @@
             "owner": "TurboPack",
             "repo": "LockBox3",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3679,7 +3916,8 @@
             "owner": "Xor-el",
             "repo": "SimpleBaseLib4Pascal",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3694,7 +3932,8 @@
             "owner": "evpobr",
             "repo": "DcpCrypt2",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3709,7 +3948,8 @@
             "owner": "jackdp",
             "repo": "LibRHash4P",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3724,7 +3964,8 @@
             "owner": "LauraRozier",
             "repo": "murmur-delphi",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3739,7 +3980,8 @@
             "owner": "sergworks",
             "repo": "tforge",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Encryption"
@@ -3760,7 +4002,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3775,7 +4018,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3790,7 +4034,8 @@
             "owner": "viniciussanchez",
             "repo": "dataset-serialize",
             "stars": 743
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3805,7 +4050,8 @@
             "owner": "ahausladen",
             "repo": "JsonDataObjects",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3816,11 +4062,12 @@
             "archived": false,
             "id": 175992466,
             "language": "Pascal",
-            "last_commit": "2026-08-27T12:51:12Z",
+            "last_commit": "2026-08-28T10:31:37Z",
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3835,7 +4082,8 @@
             "owner": "hgourvest",
             "repo": "superobject",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3850,7 +4098,8 @@
             "owner": "onryldz",
             "repo": "x-superobject",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3865,7 +4114,8 @@
             "owner": "PKGeorgiev",
             "repo": "Delphi-JsonToDelphiClass",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3880,7 +4130,8 @@
             "owner": "benibela",
             "repo": "internettools",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3895,7 +4146,8 @@
             "owner": "mremec",
             "repo": "omnixml",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3910,7 +4162,8 @@
             "owner": "Dennis1000",
             "repo": "verysimplexml",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3924,8 +4177,9 @@
             "last_commit": "2020-03-07T16:12:32Z",
             "owner": "ying32",
             "repo": "htmlparser",
-            "stars": 72
-          }
+            "stars": 71
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3940,7 +4194,8 @@
             "owner": "SeanSolberg",
             "repo": "DynamicDataObjects",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3955,7 +4210,8 @@
             "owner": "neslib",
             "repo": "Neslib.Xml",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3970,7 +4226,8 @@
             "owner": "mauriziodm",
             "repo": "DJSON",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -3985,7 +4242,8 @@
             "owner": "z505",
             "repo": "fast-html-parser",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4000,7 +4258,8 @@
             "owner": "tmcdos",
             "repo": "tiny-json",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4015,7 +4274,8 @@
             "owner": "biot2",
             "repo": "Yaml.Json.Parser.pas",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4030,7 +4290,8 @@
             "owner": "the-Arioch",
             "repo": "Delphi-XmlLite",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4045,7 +4306,8 @@
             "owner": "ashumkin",
             "repo": "delphi-yaml",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4060,7 +4322,8 @@
             "owner": "NickHodges",
             "repo": "delphihtmlwriter",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "XML/JSON/YAML/HTML"
@@ -4081,7 +4344,8 @@
             "owner": "RomanYankovsky",
             "repo": "DelphiAST",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4096,7 +4360,8 @@
             "owner": "jacobthurman",
             "repo": "Castalia-Delphi-Parser",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4111,7 +4376,8 @@
             "owner": "RomanYankovsky",
             "repo": "ndyacclex",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4126,7 +4392,8 @@
             "owner": "BeRo1985",
             "repo": "crosspascal",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Language"
@@ -4147,7 +4414,8 @@
             "owner": "pleriche",
             "repo": "FastMM4",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4161,8 +4429,9 @@
             "last_commit": "2026-08-25T19:59:59Z",
             "owner": "pleriche",
             "repo": "FastMM5",
-            "stars": 335
-          }
+            "stars": 336
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4177,7 +4446,8 @@
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4192,7 +4462,8 @@
             "owner": "andremussche",
             "repo": "scalemm",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4207,7 +4478,8 @@
             "owner": "d-mozulyov",
             "repo": "BrainMM",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4222,7 +4494,8 @@
             "owner": "RDP1974",
             "repo": "Delphi64RTL",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Memory managers"
@@ -4243,7 +4516,8 @@
             "owner": "gabr42",
             "repo": "OmniThreadLibrary",
             "stars": 509
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4258,7 +4532,8 @@
             "owner": "MahdiSafsafi",
             "repo": "DDetours",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4273,7 +4548,8 @@
             "owner": "ahausladen",
             "repo": "AsyncCalls",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4288,7 +4564,8 @@
             "owner": "Fr0sT-Brutal",
             "repo": "Delphi_MemoryModule",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4303,7 +4580,8 @@
             "owner": "Wosi",
             "repo": "DirectoryWatcher",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4318,7 +4596,8 @@
             "owner": "mr-highball",
             "repo": "ezthreads",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4333,7 +4612,8 @@
             "owner": "emozgun",
             "repo": "delphi-android-SAF",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "System"
@@ -4354,7 +4634,8 @@
             "owner": "sempare",
             "repo": "sempare-delphi-template-engine",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4369,7 +4650,8 @@
             "owner": "synopse",
             "repo": "dmustache",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4384,7 +4666,8 @@
             "owner": "arimateia",
             "repo": "liquid-delphi",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4399,7 +4682,8 @@
             "owner": "sash-rc",
             "repo": "ste",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4414,7 +4698,8 @@
             "owner": "leledumbo",
             "repo": "mustapas",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4429,7 +4714,8 @@
             "owner": "Fr0sT-Brutal",
             "repo": "TemplateEngine",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Template"
@@ -4450,7 +4736,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4465,7 +4752,8 @@
             "owner": "exilon",
             "repo": "QuickLogger",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4480,7 +4768,8 @@
             "owner": "danieleteti",
             "repo": "loggerpro",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4495,7 +4784,8 @@
             "owner": "grijjy",
             "repo": "GrijjyCloudLogger",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4510,7 +4800,8 @@
             "owner": "adrianosantostreina",
             "repo": "MultiLog4D",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4525,7 +4816,8 @@
             "owner": "jachguate",
             "repo": "jachLogMgr",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4540,7 +4832,8 @@
             "owner": "michaelJustin",
             "repo": "slf4p",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4555,7 +4848,8 @@
             "owner": "landrix",
             "repo": "Log4d-for-Delphi",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4570,7 +4864,8 @@
             "owner": "GabrielOnDelphi",
             "repo": "Delphi-LightSaber-LogLib",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4585,7 +4880,8 @@
             "owner": "paweld",
             "repo": "simple-logger",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Logging"
@@ -4602,11 +4898,12 @@
             "archived": false,
             "id": 210370571,
             "language": "Pascal",
-            "last_commit": "2026-08-27T23:18:55Z",
+            "last_commit": "2026-08-28T23:43:15Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4620,8 +4917,9 @@
             "last_commit": "2026-06-13T18:19:17Z",
             "owner": "neslib",
             "repo": "FastMath",
-            "stars": 191
-          }
+            "stars": 192
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4636,7 +4934,8 @@
             "owner": "mikerabat",
             "repo": "mrmath",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4651,7 +4950,8 @@
             "owner": "Xor-el",
             "repo": "IntXLib4Pascal",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4666,7 +4966,8 @@
             "owner": "benibela",
             "repo": "bigdecimalmath",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4681,7 +4982,8 @@
             "owner": "Xor-el",
             "repo": "DelphiBigNumberXLib",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Math"
@@ -4702,7 +5004,8 @@
             "owner": "gabr42",
             "repo": "GpDelphiUnits",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4717,7 +5020,8 @@
             "owner": "VSoftTechnologies",
             "repo": "VSoft.CommandLineParser",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4732,7 +5036,8 @@
             "owner": "jackdp",
             "repo": "JPLib",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4747,7 +5052,8 @@
             "owner": "tokibito",
             "repo": "delphi-argparse",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4762,7 +5068,8 @@
             "owner": "benibela",
             "repo": "rcmdline",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Command-line"
@@ -4783,7 +5090,8 @@
             "owner": "jmpessoa",
             "repo": "lazandroidmodulewizard",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4798,7 +5106,8 @@
             "owner": "grahamegrieve",
             "repo": "delphi-markdown",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4813,7 +5122,8 @@
             "owner": "andgineer",
             "repo": "TRegExpr",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4828,7 +5138,8 @@
             "owner": "gabr42",
             "repo": "GpDelphiUnits",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4843,7 +5154,8 @@
             "owner": "jimmckeeth",
             "repo": "DelphiPatterns",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4858,7 +5170,8 @@
             "owner": "TurboPack",
             "repo": "DOSCommand",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4873,7 +5186,8 @@
             "owner": "maciej-izak",
             "repo": "generics.collections",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4888,7 +5202,8 @@
             "owner": "BeRo1985",
             "repo": "pasmp",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4903,7 +5218,8 @@
             "owner": "PavelMinenkov",
             "repo": "AIO",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4918,7 +5234,8 @@
             "owner": "BeRo1985",
             "repo": "flre",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4933,7 +5250,8 @@
             "owner": "pavkam",
             "repo": "tzdb",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4948,7 +5266,8 @@
             "owner": "TheUnknownOnes",
             "repo": "theunknownones",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4963,7 +5282,8 @@
             "owner": "d-mozulyov",
             "repo": "Rapid.Generics",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4978,7 +5298,8 @@
             "owner": "Avemey",
             "repo": "zexmlss",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -4989,11 +5310,12 @@
             "archived": false,
             "id": 80858136,
             "language": "Pascal",
-            "last_commit": "2026-08-27T09:00:47Z",
+            "last_commit": "2026-08-28T09:00:47Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5004,11 +5326,12 @@
             "archived": false,
             "id": 36534733,
             "language": "Pascal",
-            "last_commit": "2025-03-20T00:12:35Z",
+            "last_commit": "2026-08-29T00:01:53Z",
             "owner": "TurboPack",
             "repo": "OnGuard-VCL",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5023,7 +5346,8 @@
             "owner": "lminuti",
             "repo": "graphql",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5038,7 +5362,8 @@
             "owner": "GabrielOnDelphi",
             "repo": "Delphi-LightSaber-CoreLib",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5053,7 +5378,8 @@
             "owner": "rickard67",
             "repo": "TextDiff",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5068,7 +5394,8 @@
             "owner": "davidberneda",
             "repo": "GenericTree",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5083,7 +5410,8 @@
             "owner": "d-mozulyov",
             "repo": "CachedBuffers",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5098,7 +5426,8 @@
             "owner": "Xor-el",
             "repo": "BaseNcodingPascal",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5113,7 +5442,8 @@
             "owner": "SirRufo",
             "repo": "stateless",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5128,7 +5458,8 @@
             "owner": "Xor-el",
             "repo": "EmailValidationPascal",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5143,7 +5474,8 @@
             "owner": "isemenkov",
             "repo": "pascalutils",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5158,7 +5490,8 @@
             "owner": "d-mozulyov",
             "repo": "UniConv",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5173,7 +5506,8 @@
             "owner": "VincentGsell",
             "repo": "GS.Core",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5188,7 +5522,8 @@
             "owner": "Xor-el",
             "repo": "ByteSizeLibPascal",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5203,7 +5538,8 @@
             "owner": "d-mozulyov",
             "repo": "CachedTexts",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5218,7 +5554,8 @@
             "owner": "isemenkov",
             "repo": "libpasc-algorithms",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5233,7 +5570,8 @@
             "owner": "guitorres",
             "repo": "htmlbuilder",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5248,7 +5586,8 @@
             "owner": "dezlov",
             "repo": "PascalTZ",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5263,7 +5602,8 @@
             "owner": "darianmiller",
             "repo": "Delphi-Hunspell",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5278,7 +5618,8 @@
             "owner": "DavidMoraisFerreira",
             "repo": "FuzzyWuzzy.pas",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5293,7 +5634,8 @@
             "owner": "rareMaxim",
             "repo": "charset-enigma",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5308,7 +5650,8 @@
             "owner": "dsapolska",
             "repo": "dccontainers",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5323,7 +5666,8 @@
             "owner": "HemulGM",
             "repo": "GraphQL",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5338,7 +5682,8 @@
             "owner": "quartexNOR",
             "repo": "byterage",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5353,7 +5698,8 @@
             "owner": "thecocce",
             "repo": "delphi-hibernate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Other non-visual"
@@ -5374,7 +5720,8 @@
             "owner": "RRUZ",
             "repo": "tsmbios",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5389,7 +5736,8 @@
             "owner": "EtheaDev",
             "repo": "SVGShellExtensions",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5404,7 +5752,8 @@
             "owner": "landrix",
             "repo": "The-Drag-and-Drop-Component-Suite-for-Delphi",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5419,7 +5768,8 @@
             "owner": "AlexanderBagel",
             "repo": "ProcessMemoryMap",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5434,7 +5784,8 @@
             "owner": "EtheaDev",
             "repo": "MarkdownShellExtensions",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5449,7 +5800,8 @@
             "owner": "EdZava",
             "repo": "VCL-ActiveDirectory4Delphi",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5464,7 +5816,8 @@
             "owner": "germanestevez",
             "repo": "GLibWMI",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5479,7 +5832,8 @@
             "owner": "rareMaxim",
             "repo": "WindowsAutorun",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "OS"
@@ -5500,7 +5854,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5514,8 +5869,9 @@
             "last_commit": "2026-08-06T16:51:22Z",
             "owner": "fortesinformatica",
             "repo": "fortesreport-ce",
-            "stars": 286
-          }
+            "stars": 287
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5530,7 +5886,8 @@
             "owner": "Kryuski",
             "repo": "kryvich-delphi-reporter",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Report generating"
@@ -5551,7 +5908,8 @@
             "owner": "synopse",
             "repo": "mORMot",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5566,7 +5924,8 @@
             "owner": "VSoftTechnologies",
             "repo": "DUnitX",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5581,7 +5940,8 @@
             "owner": "VSoftTechnologies",
             "repo": "Delphi-Mocks",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5596,7 +5956,8 @@
             "owner": "jhc-systems",
             "repo": "DelphiUIAutomation",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5611,7 +5972,8 @@
             "owner": "RomanYankovsky",
             "repo": "DelphiSpec",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5626,7 +5988,8 @@
             "owner": "deltics",
             "repo": "delphi.libs",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5641,7 +6004,8 @@
             "owner": "MHumm",
             "repo": "delphi-code-coverage-wizard-plus",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5656,7 +6020,8 @@
             "owner": "VSoftTechnologies",
             "repo": "DUnit-XML",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5671,7 +6036,8 @@
             "owner": "michaelJustin",
             "repo": "openctf",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Unit Testing"
@@ -5692,7 +6058,8 @@
             "owner": "project-jedi",
             "repo": "jcl",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5707,7 +6074,8 @@
             "owner": "MahdiSafsafi",
             "repo": "DebugEngine",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5722,7 +6090,8 @@
             "owner": "marcocantu",
             "repo": "ObjectDebugger",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5737,7 +6106,8 @@
             "owner": "Pigrecos",
             "repo": "Capstone4Delphi",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Debugging / error handling"
@@ -5758,7 +6128,8 @@
             "owner": "RRUZ",
             "repo": "delphi-ide-theme-editor",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5773,7 +6144,8 @@
             "owner": "Memnarch",
             "repo": "Delphinus",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5788,7 +6160,8 @@
             "owner": "ahausladen",
             "repo": "DDevExtensions",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5803,7 +6176,8 @@
             "owner": "TheUnknownOnes",
             "repo": "theunknownones",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5818,7 +6192,8 @@
             "owner": "DGH2112",
             "repo": "Delphi-IDE-Explorer",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5833,7 +6208,8 @@
             "owner": "LaKraven",
             "repo": "RADSplit",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5848,7 +6224,8 @@
             "owner": "rareMaxim",
             "repo": "Delphi-Adb-WiFi",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5863,7 +6240,8 @@
             "owner": "digao-dalpiaz",
             "repo": "DzNoteEditor",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5878,7 +6256,8 @@
             "owner": "Arvur",
             "repo": "DelphiSettingManager",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5893,7 +6272,8 @@
             "owner": "littleearth",
             "repo": "delphi-library-helper",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5908,7 +6288,8 @@
             "owner": "DGH2112",
             "repo": "DGH-IDE-Notifiers",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5923,7 +6304,8 @@
             "owner": "DGH2112",
             "repo": "OTA-Interface-Search",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5938,7 +6320,8 @@
             "owner": "Code4Delphi",
             "repo": "C4D-Validate-Components",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5953,7 +6336,8 @@
             "owner": "DGH2112",
             "repo": "Expert-Manager",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5968,7 +6352,8 @@
             "owner": "DGH2112",
             "repo": "Browse-and-Doc-It",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5983,7 +6368,8 @@
             "owner": "DGH2112",
             "repo": "Integrated-Testing-Helper",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -5998,7 +6384,8 @@
             "owner": "littleearth",
             "repo": "mobile-image-creator",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6013,7 +6400,8 @@
             "owner": "DGH2112",
             "repo": "Auto-Save",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "RAD Studio IDE plugins/wizards"
@@ -6034,7 +6422,8 @@
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6049,7 +6438,8 @@
             "owner": "casteng",
             "repo": "i-pascal",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Plugins for other IDE's"
@@ -6070,7 +6460,8 @@
             "owner": "integrated-application-development",
             "repo": "sonar-delphi",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6085,7 +6476,8 @@
             "owner": "yavfast",
             "repo": "dbg-spider",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6100,7 +6492,8 @@
             "owner": "andremussche",
             "repo": "asmprofiler",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6115,7 +6508,8 @@
             "owner": "ase379",
             "repo": "gpprofile2017",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6130,7 +6524,8 @@
             "owner": "DelphiCodeCoverage",
             "repo": "DelphiCodeCoverage",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6145,7 +6540,8 @@
             "owner": "andersmelander",
             "repo": "map2pdb",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6160,7 +6556,8 @@
             "owner": "VilleKrumlinde",
             "repo": "delphiunitsizes",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6175,7 +6572,8 @@
             "owner": "DGH2112",
             "repo": "ProfileViewer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Code check/review, debug"
@@ -6196,7 +6594,8 @@
             "owner": "corneliusdavid",
             "repo": "AutoGetIt",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6211,7 +6610,8 @@
             "owner": "grijjy",
             "repo": "GrijjyDeployMan",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6226,7 +6626,8 @@
             "owner": "jkour",
             "repo": "neSparkle",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Setup"
@@ -6243,11 +6644,12 @@
             "archived": false,
             "id": 1062897,
             "language": null,
-            "last_commit": "2026-08-25T17:02:50Z",
+            "last_commit": "2026-08-28T20:19:00Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175479
-          }
+            "stars": 175486
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6262,7 +6664,8 @@
             "owner": "HashLoad",
             "repo": "boss",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6277,7 +6680,8 @@
             "owner": "WouterVanNifterick",
             "repo": "C-To-Delphi",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6292,7 +6696,8 @@
             "owner": "neslib",
             "repo": "Chet",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6307,7 +6712,8 @@
             "owner": "RRUZ",
             "repo": "wmi-delphi-code-creator",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6322,7 +6728,8 @@
             "owner": "RRUZ",
             "repo": "delphi-preview-handler",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6337,7 +6744,8 @@
             "owner": "RRUZ",
             "repo": "delphi-dev-shell-tools",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6352,7 +6760,8 @@
             "owner": "landgraf-dev",
             "repo": "openapi-delphi-generator",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6367,7 +6776,8 @@
             "owner": "alefragnani",
             "repo": "delphi-james",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6382,7 +6792,8 @@
             "owner": "andersmelander",
             "repo": "better-translation-manager",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6397,7 +6808,8 @@
             "owner": "masonwheeler",
             "repo": "DFMJSON",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         },
         {
           "node_type": "item",
@@ -6412,14 +6824,15 @@
             "owner": "NickHodges",
             "repo": "DelphiUnitTests",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:37:19.940Z",
+    "last_updated": "2026-08-29T00:08:49.503Z",
     "original_repository_info": {
       "archived": false,
       "id": 23147424,
@@ -6427,7 +6840,7 @@
       "last_commit": "2026-02-27T16:04:57Z",
       "owner": "Fr0sT-Brutal",
       "repo": "awesome-pascal",
-      "stars": 2077
+      "stars": 2078
     },
     "original_repository_sha": "9a5495fb7ace9942a32f83966ce5c8cdbb065939",
     "enhanced_repository": "enhansome/enhansome-pascal",
