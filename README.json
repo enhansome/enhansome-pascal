@@ -117,7 +117,7 @@
             "open_issues": 42,
             "owner": "exilon",
             "repo": "QuickLib",
-            "stars": 715,
+            "stars": 716,
             "topics": [
               "automapper",
               "azure",
@@ -175,11 +175,11 @@
             "id": 19535520,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-05T15:44:21Z",
+            "last_commit": "2026-09-06T14:01:08Z",
             "open_issues": 5,
             "owner": "cnpack",
             "repo": "cnvcl",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "cnpack",
               "cnpack-vcl-components",
@@ -258,7 +258,7 @@
             "open_issues": 6,
             "owner": "Steema",
             "repo": "TeeBI",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "bi",
               "big-data",
@@ -310,7 +310,7 @@
             "id": 226658540,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T04:13:41Z",
+            "last_commit": "2026-09-06T09:07:10Z",
             "open_issues": 9,
             "owner": "parmaja",
             "repo": "minilib",
@@ -675,7 +675,7 @@
             "open_issues": 7,
             "owner": "Spelt",
             "repo": "ZXing.Delphi",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -692,7 +692,7 @@
             "id": 60029721,
             "language": "Pascal",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-05T16:47:34Z",
+            "last_commit": "2026-09-06T17:05:41Z",
             "open_issues": 8,
             "owner": "graphics32",
             "repo": "graphics32",
@@ -1006,7 +1006,7 @@
             "open_issues": 8,
             "owner": "CWBudde",
             "repo": "AggPasMod",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "antigrain",
               "graphics",
@@ -1400,7 +1400,7 @@
             "open_issues": 87,
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "2d-game-engine",
               "3d-game-engine",
@@ -1438,7 +1438,7 @@
             "id": 52313841,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-09-05T08:45:14Z",
+            "last_commit": "2026-09-06T13:20:01Z",
             "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
@@ -1469,7 +1469,7 @@
             "id": 244948203,
             "language": "Pascal",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T20:33:38Z",
+            "last_commit": "2026-09-05T21:59:54Z",
             "open_issues": 3,
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
@@ -1503,7 +1503,7 @@
             "open_issues": 1,
             "owner": "GuvaCode",
             "repo": "ray4laz",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "cross-platform",
               "enjoy-videogames-programming",
@@ -1575,7 +1575,7 @@
             "open_issues": 5,
             "owner": "ev1313",
             "repo": "Pascal-SDL-2-Headers",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -1657,7 +1657,7 @@
             "open_issues": 5,
             "owner": "CWBudde",
             "repo": "PasSFML",
-            "stars": 56,
+            "stars": 58,
             "topics": [
               "delphi",
               "fpc",
@@ -1686,7 +1686,7 @@
             "open_issues": 0,
             "owner": "turric4n",
             "repo": "PascalTileEngine",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -1774,7 +1774,7 @@
             "open_issues": 0,
             "owner": "d-mozulyov",
             "repo": "CrystalPathFinding",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -1908,11 +1908,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:54:48Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-06T16:01:36Z",
+            "open_issues": 23,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10958,
+            "stars": 10956,
             "topics": [
               "actionscript",
               "c",
@@ -1945,7 +1945,7 @@
             "open_issues": 17,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "api",
               "application-server",
@@ -1981,10 +1981,10 @@
             "language": "Pascal",
             "license": "MIT",
             "last_commit": "2026-09-04T17:15:47Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1373,
+            "stars": 1374,
             "topics": [
               "api",
               "delphi",
@@ -2159,8 +2159,8 @@
             "id": 72083688,
             "language": "Pascal",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-16T00:36:57Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-06T06:22:18Z",
+            "open_issues": 64,
             "owner": "winddriver",
             "repo": "Delphi-Cross-Socket",
             "stars": 473,
@@ -2297,7 +2297,7 @@
             "open_issues": 7,
             "owner": "delphi-blocks",
             "repo": "WiRL",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "api",
               "delphi",
@@ -2376,7 +2376,7 @@
             "open_issues": 8,
             "owner": "SchneiderInfosystems",
             "repo": "FB4D",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "delphi",
               "embarcadero",
@@ -2840,7 +2840,7 @@
             "open_issues": 4,
             "owner": "stijnsanders",
             "repo": "xxm",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "delphi",
               "dynamic-webpages",
@@ -2990,7 +2990,7 @@
             "open_issues": 0,
             "owner": "kami-soft",
             "repo": "NamedPipeExchange",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -3224,7 +3224,7 @@
             "open_issues": 1,
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "api-wrapper",
               "azure",
@@ -3443,6 +3443,27 @@
         },
         {
           "node_type": "item",
+          "title": "delphi-aws-ses",
+          "description": ". Amazon Simple Email Service (AWS SES) library for Delphi applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Delphi client for Amazon Simple Email Service (AWS SES)",
+            "homepage": null,
+            "id": 36761837,
+            "language": "Pascal",
+            "license": "MIT",
+            "last_commit": "2018-07-25T13:06:35Z",
+            "open_issues": 3,
+            "owner": "monde-sistemas",
+            "repo": "delphi-aws-ses",
+            "stars": 34,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "VK API",
           "description": ". Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).",
           "children": [],
@@ -3475,27 +3496,6 @@
               "vkontakte-api",
               "wrapper-api"
             ]
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "delphi-aws-ses",
-          "description": ". Amazon Simple Email Service (AWS SES) library for Delphi applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Delphi client for Amazon Simple Email Service (AWS SES)",
-            "homepage": null,
-            "id": 36761837,
-            "language": "Pascal",
-            "license": "MIT",
-            "last_commit": "2018-07-25T13:06:35Z",
-            "open_issues": 3,
-            "owner": "monde-sistemas",
-            "repo": "delphi-aws-ses",
-            "stars": 33,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
         },
@@ -3536,7 +3536,7 @@
             "open_issues": 3,
             "owner": "littleearth",
             "repo": "delphiXERO",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -3775,7 +3775,7 @@
             "open_issues": 6,
             "owner": "spinettaro",
             "repo": "delphi-event-bus",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "delphi",
               "eventbus"
@@ -3906,8 +3906,8 @@
             "id": 267178383,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-09-01T20:23:16Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-05T20:51:16Z",
+            "open_issues": 6,
             "owner": "DelphiWorlds",
             "repo": "Kastri",
             "stars": 597,
@@ -4258,7 +4258,7 @@
             "open_issues": 21,
             "owner": "norgepaul",
             "repo": "TChromeTabs",
-            "stars": 232,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4316,7 +4316,7 @@
             "open_issues": 3,
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "firemonkey",
               "fmx",
@@ -4533,8 +4533,8 @@
             "id": 32381703,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T08:58:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T11:51:02Z",
+            "open_issues": 5,
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 192,
@@ -4563,7 +4563,7 @@
             "open_issues": 1,
             "owner": "karser",
             "repo": "QDSEquations",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "delphi",
               "delphi-component",
@@ -4620,7 +4620,7 @@
             "id": 80214003,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-22T15:04:15Z",
+            "last_commit": "2026-09-06T07:23:30Z",
             "open_issues": 16,
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
@@ -4666,7 +4666,7 @@
             "open_issues": 91,
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "components",
               "delphi",
@@ -4889,7 +4889,7 @@
             "open_issues": 86,
             "owner": "RRUZ",
             "repo": "vcl-styles-utils",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "delphi",
               "delphi-library",
@@ -5372,7 +5372,7 @@
             "open_issues": 14,
             "owner": "danieleteti",
             "repo": "delphi-orm",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5725,8 +5725,8 @@
             "id": 792358743,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-08-21T20:24:56Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-06T16:01:06Z",
+            "open_issues": 89,
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 8,
@@ -5845,7 +5845,7 @@
             "open_issues": 76,
             "owner": "remobjects",
             "repo": "pascalscript",
-            "stars": 511,
+            "stars": 512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5969,7 +5969,7 @@
             "open_issues": 0,
             "owner": "d-mozulyov",
             "repo": "CrystalLUA",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -6034,11 +6034,11 @@
             "id": 531380835,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T10:04:44Z",
-            "open_issues": 625,
+            "last_commit": "2026-09-05T23:02:20Z",
+            "open_issues": 628,
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14619,
+            "stars": 14633,
             "topics": [
               "aarch64",
               "android",
@@ -6080,7 +6080,7 @@
             "open_issues": 58,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "cifar-10",
               "cifar10",
@@ -6830,7 +6830,7 @@
             "open_issues": 9,
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "delphi",
               "json",
@@ -6980,7 +6980,7 @@
             "open_issues": 3,
             "owner": "Dennis1000",
             "repo": "verysimplexml",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7146,6 +7146,27 @@
         },
         {
           "node_type": "item",
+          "title": "THTMLWriter",
+          "description": ". Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 147010969,
+            "language": "Pascal",
+            "license": "MPL-2.0",
+            "last_commit": "2026-03-12T08:27:02Z",
+            "open_issues": 0,
+            "owner": "NickHodges",
+            "repo": "delphihtmlwriter",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "YAML/JSON ParserTools",
           "description": ". YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus",
           "children": [],
@@ -7200,27 +7221,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "THTMLWriter",
-          "description": ". Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 147010969,
-            "language": "Pascal",
-            "license": "MPL-2.0",
-            "last_commit": "2026-03-12T08:27:02Z",
-            "open_issues": 0,
-            "owner": "NickHodges",
-            "repo": "delphihtmlwriter",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
         }
       ],
       "title": "XML/JSON/YAML/HTML"
@@ -7269,7 +7269,7 @@
             "open_issues": 2,
             "owner": "jacobthurman",
             "repo": "Castalia-Delphi-Parser",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7380,7 +7380,7 @@
             "open_issues": 1,
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "avx2",
               "avx512",
@@ -7429,7 +7429,7 @@
             "open_issues": 3,
             "owner": "d-mozulyov",
             "repo": "BrainMM",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7766,7 +7766,7 @@
             "open_issues": 1,
             "owner": "Fr0sT-Brutal",
             "repo": "TemplateEngine",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "smarty",
               "smarty-template-engine",
@@ -7881,7 +7881,7 @@
             "open_issues": 8,
             "owner": "danieleteti",
             "repo": "loggerpro",
-            "stars": 397,
+            "stars": 399,
             "topics": [
               "delphi",
               "linux",
@@ -8080,7 +8080,7 @@
             "open_issues": 58,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "cifar-10",
               "cifar10",
@@ -8432,7 +8432,7 @@
             "open_issues": 16,
             "owner": "andgineer",
             "repo": "TRegExpr",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "delphi",
               "freepascal",
@@ -8614,7 +8614,7 @@
             "open_issues": 3,
             "owner": "pavkam",
             "repo": "tzdb",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "delphi",
               "fpc",
@@ -8664,7 +8664,7 @@
             "open_issues": 0,
             "owner": "d-mozulyov",
             "repo": "Rapid.Generics",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8929,6 +8929,27 @@
         },
         {
           "node_type": "item",
+          "title": "UniConv",
+          "description": ". Universal text conversion library is a universal quick and compact library intended for conversion, comparison and change of the register of text in concordance with the latest standards of the Unicode Consortium. The librarys function greatly resembles ICU, libiconv and Windows.kernel which are de facto standard for popular operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Universal text conversion library (Delphi6-XE10)",
+            "homepage": "http://www.sql.ru/forum/1184054-a/oficialnyy-reliz-uniconv",
+            "id": 30936056,
+            "language": "Pascal",
+            "license": "MIT",
+            "last_commit": "2019-12-24T19:56:26Z",
+            "open_issues": 0,
+            "owner": "d-mozulyov",
+            "repo": "UniConv",
+            "stars": 35,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "PascalUtils",
           "description": ". Delphi and object pascal library of utils data structures",
           "children": [],
@@ -8955,27 +8976,6 @@
               "pascal-library",
               "pascalutils"
             ]
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "UniConv",
-          "description": ". Universal text conversion library is a universal quick and compact library intended for conversion, comparison and change of the register of text in concordance with the latest standards of the Unicode Consortium. The librarys function greatly resembles ICU, libiconv and Windows.kernel which are de facto standard for popular operating systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Universal text conversion library (Delphi6-XE10)",
-            "homepage": "http://www.sql.ru/forum/1184054-a/oficialnyy-reliz-uniconv",
-            "id": 30936056,
-            "language": "Pascal",
-            "license": "MIT",
-            "last_commit": "2019-12-24T19:56:26Z",
-            "open_issues": 0,
-            "owner": "d-mozulyov",
-            "repo": "UniConv",
-            "stars": 34,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
         },
@@ -9014,6 +9014,27 @@
         },
         {
           "node_type": "item",
+          "title": "CachedTexts",
+          "description": ". Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The fastest parsing and generation of text data (Delphi6-XE10)",
+            "homepage": "http://www.sql.ru/forum/1204260/oficialnyy-reliz-biblioteki-cachedtexts",
+            "id": 30936295,
+            "language": "Pascal",
+            "license": "MIT",
+            "last_commit": "2019-12-24T20:21:00Z",
+            "open_issues": 1,
+            "owner": "d-mozulyov",
+            "repo": "CachedTexts",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "ByteSizeLibPascal",
           "description": ". TByteSize is a utility \"record\" that makes byte size representation in code easier by removing ambiguity of the value being represented.",
           "children": [],
@@ -9037,27 +9058,6 @@
               "fpc",
               "pascal"
             ]
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CachedTexts",
-          "description": ". Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The fastest parsing and generation of text data (Delphi6-XE10)",
-            "homepage": "http://www.sql.ru/forum/1204260/oficialnyy-reliz-biblioteki-cachedtexts",
-            "id": 30936295,
-            "language": "Pascal",
-            "license": "MIT",
-            "last_commit": "2019-12-24T20:21:00Z",
-            "open_issues": 1,
-            "owner": "d-mozulyov",
-            "repo": "CachedTexts",
-            "stars": 30,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
         },
@@ -9326,7 +9326,7 @@
             "open_issues": 5,
             "owner": "RRUZ",
             "repo": "tsmbios",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "delphi",
               "fpc",
@@ -9732,7 +9732,7 @@
             "open_issues": 5,
             "owner": "RomanYankovsky",
             "repo": "DelphiSpec",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -9962,7 +9962,7 @@
             "open_issues": 27,
             "owner": "RRUZ",
             "repo": "delphi-ide-theme-editor",
-            "stars": 693,
+            "stars": 694,
             "topics": [
               "delphi",
               "lazarus-ide",
@@ -9988,7 +9988,7 @@
             "open_issues": 35,
             "owner": "Memnarch",
             "repo": "Delphinus",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "delphi",
               "delphinus",
@@ -10076,7 +10076,7 @@
             "open_issues": 1,
             "owner": "LaKraven",
             "repo": "RADSplit",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10167,7 +10167,7 @@
             "open_issues": 0,
             "owner": "littleearth",
             "repo": "delphi-library-helper",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10284,27 +10284,6 @@
         },
         {
           "node_type": "item",
-          "title": "Browse and Doc It",
-          "description": ". RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.",
-            "homepage": null,
-            "id": 160954854,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2025-09-14T11:37:29Z",
-            "open_issues": 17,
-            "owner": "DGH2112",
-            "repo": "Browse-and-Doc-It",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mobile Image Creator",
           "description": "Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by Thomas Grubb of RiverSoftAVG.",
           "children": [],
@@ -10319,6 +10298,27 @@
             "open_issues": 1,
             "owner": "littleearth",
             "repo": "mobile-image-creator",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Browse and Doc It",
+          "description": ". RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.",
+            "homepage": null,
+            "id": 160954854,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-14T11:37:29Z",
+            "open_issues": 17,
+            "owner": "DGH2112",
+            "repo": "Browse-and-Doc-It",
             "stars": 7,
             "topics": []
           },
@@ -10363,8 +10363,8 @@
             "id": 42364093,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:51:10Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-05T18:47:49Z",
+            "open_issues": 1,
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
             "stars": 271,
@@ -10678,7 +10678,7 @@
             "open_issues": 2,
             "owner": "jkour",
             "repo": "neSparkle",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10705,7 +10705,7 @@
             "open_issues": 74,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175607,
+            "stars": 175627,
             "topics": [
               "git",
               "gitignore"
@@ -10729,7 +10729,7 @@
             "open_issues": 19,
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "boss",
               "delphi",
@@ -10782,7 +10782,7 @@
             "open_issues": 13,
             "owner": "neslib",
             "repo": "Chet",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "c",
               "chet",
@@ -10838,7 +10838,7 @@
             "open_issues": 16,
             "owner": "RRUZ",
             "repo": "delphi-preview-handler",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "preview-handler",
               "shell-extension",
@@ -10859,11 +10859,11 @@
             "id": 32296027,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-05T06:32:29Z",
+            "last_commit": "2026-09-06T15:44:45Z",
             "open_issues": 7,
             "owner": "RRUZ",
             "repo": "delphi-dev-shell-tools",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "delphi",
               "lazarus",
@@ -11002,7 +11002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:42:42.232Z",
+    "last_updated": "2026-09-06T17:44:29.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
