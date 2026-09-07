@@ -175,11 +175,11 @@
             "id": 19535520,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-06T14:01:08Z",
+            "last_commit": "2026-09-07T06:24:49Z",
             "open_issues": 5,
             "owner": "cnpack",
             "repo": "cnvcl",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "cnpack",
               "cnpack-vcl-components",
@@ -237,7 +237,7 @@
             "open_issues": 29,
             "owner": "grijjy",
             "repo": "GrijjyFoundation",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -254,7 +254,7 @@
             "id": 50261518,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-08-22T17:59:04Z",
+            "last_commit": "2026-09-07T15:12:52Z",
             "open_issues": 6,
             "owner": "Steema",
             "repo": "TeeBI",
@@ -310,7 +310,7 @@
             "id": 226658540,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T09:07:10Z",
+            "last_commit": "2026-09-07T12:28:09Z",
             "open_issues": 9,
             "owner": "parmaja",
             "repo": "minilib",
@@ -638,7 +638,7 @@
             "language": "Pascal",
             "license": "MIT",
             "last_commit": "2026-09-02T14:14:33Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "skia4delphi",
             "repo": "skia4delphi",
             "stars": 782,
@@ -692,7 +692,7 @@
             "id": 60029721,
             "language": "Pascal",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-06T17:05:41Z",
+            "last_commit": "2026-09-07T17:05:57Z",
             "open_issues": 8,
             "owner": "graphics32",
             "repo": "graphics32",
@@ -877,6 +877,27 @@
         },
         {
           "node_type": "item",
+          "title": "GraphicEx",
+          "description": ". Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GraphicEx - a Delphi image loader library",
+            "homepage": "www.soft-gems.net",
+            "id": 17314553,
+            "language": "Pascal",
+            "license": "MPL-2.0",
+            "last_commit": "2024-07-31T06:54:13Z",
+            "open_issues": 1,
+            "owner": "mike-lischke",
+            "repo": "GraphicEx",
+            "stars": 120,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "Zint-Barcode-Generator-for-Delphi",
           "description": ". Native Delphi port of Zint-Barcode-Generator.",
           "children": [],
@@ -899,27 +920,6 @@
               "girocode",
               "girocode-generator"
             ]
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GraphicEx",
-          "description": ". Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GraphicEx - a Delphi image loader library",
-            "homepage": "www.soft-gems.net",
-            "id": 17314553,
-            "language": "Pascal",
-            "license": "MPL-2.0",
-            "last_commit": "2024-07-31T06:54:13Z",
-            "open_issues": 1,
-            "owner": "mike-lischke",
-            "repo": "GraphicEx",
-            "stars": 119,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
         },
@@ -1161,7 +1161,7 @@
             "open_issues": 0,
             "owner": "Memnarch",
             "repo": "AsciiImage",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "delphinuspackage"
             ]
@@ -1226,7 +1226,7 @@
             "open_issues": 0,
             "owner": "Memnarch",
             "repo": "Mundus",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "3d",
               "delphinuspackage",
@@ -1400,7 +1400,7 @@
             "open_issues": 87,
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1241,
+            "stars": 1242,
             "topics": [
               "2d-game-engine",
               "3d-game-engine",
@@ -1438,11 +1438,11 @@
             "id": 52313841,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-09-06T13:20:01Z",
+            "last_commit": "2026-09-06T23:38:26Z",
             "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "delphi",
               "fpc",
@@ -1908,11 +1908,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T16:01:36Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-07T16:36:45Z",
+            "open_issues": 21,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10956,
+            "stars": 10957,
             "topics": [
               "actionscript",
               "c",
@@ -1945,7 +1945,7 @@
             "open_issues": 17,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1402,
+            "stars": 1404,
             "topics": [
               "api",
               "application-server",
@@ -1984,7 +1984,7 @@
             "open_issues": 2,
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1374,
+            "stars": 1373,
             "topics": [
               "api",
               "delphi",
@@ -2190,8 +2190,8 @@
             "id": 79719063,
             "language": "Pascal",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T21:43:10Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-07T16:19:21Z",
+            "open_issues": 130,
             "owner": "torokernel",
             "repo": "torokernel",
             "stars": 366,
@@ -2220,7 +2220,7 @@
             "language": "Pascal",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T14:36:44Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "dotpas",
             "repo": "dext",
             "stars": 314,
@@ -2499,7 +2499,7 @@
             "open_issues": 1,
             "owner": "michaelJustin",
             "repo": "daraja-framework",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "delphi",
               "fpc",
@@ -2737,7 +2737,7 @@
             "open_issues": 1,
             "owner": "pult",
             "repo": "libssh2_delphi",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "delphi",
               "libssh",
@@ -3775,7 +3775,7 @@
             "open_issues": 6,
             "owner": "spinettaro",
             "repo": "delphi-event-bus",
-            "stars": 497,
+            "stars": 496,
             "topics": [
               "delphi",
               "eventbus"
@@ -3878,7 +3878,7 @@
             "open_issues": 0,
             "owner": "global-system",
             "repo": "DelphiEventBus",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "delphi",
               "delphi-xe",
@@ -3906,8 +3906,8 @@
             "id": 267178383,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:51:16Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-07T03:06:26Z",
+            "open_issues": 4,
             "owner": "DelphiWorlds",
             "repo": "Kastri",
             "stars": 597,
@@ -4043,7 +4043,7 @@
             "open_issues": 9,
             "owner": "TurboPack",
             "repo": "Orpheus",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 0,
             "owner": "TurboPack",
             "repo": "Essentials",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4181,8 +4181,8 @@
             "id": 29590515,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-01T15:35:40Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-07T14:55:40Z",
+            "open_issues": 18,
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 736,
@@ -4312,7 +4312,7 @@
             "id": 72719720,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:01:52Z",
+            "last_commit": "2026-09-07T16:30:49Z",
             "open_issues": 3,
             "owner": "Steema",
             "repo": "TeeGrid-VCL-FMX-Samples",
@@ -4533,8 +4533,8 @@
             "id": 32381703,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T11:51:02Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-07T11:06:11Z",
+            "open_issues": 4,
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 192,
@@ -4620,11 +4620,11 @@
             "id": 80214003,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T07:23:30Z",
+            "last_commit": "2026-09-07T09:15:52Z",
             "open_issues": 16,
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
-            "stars": 1332,
+            "stars": 1331,
             "topics": [
               "blink",
               "browser",
@@ -4666,7 +4666,7 @@
             "open_issues": 91,
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "components",
               "delphi",
@@ -5431,7 +5431,7 @@
             "open_issues": 0,
             "owner": "plashenkov",
             "repo": "SQLite3-Delphi-FPC",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5578,11 +5578,11 @@
             "id": 61213087,
             "language": "Pascal",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T17:31:58Z",
+            "last_commit": "2026-09-07T16:40:14Z",
             "open_issues": 0,
             "owner": "mauriziodm",
             "repo": "iORM",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5725,8 +5725,8 @@
             "id": 792358743,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-09-06T16:01:06Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-07T19:14:38Z",
+            "open_issues": 90,
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 8,
@@ -5887,7 +5887,7 @@
             "open_issues": 5,
             "owner": "tondrej",
             "repo": "chakracore-delphi",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "chakracore",
               "delphi",
@@ -6035,10 +6035,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T23:02:20Z",
-            "open_issues": 628,
+            "open_issues": 631,
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14633,
+            "stars": 14654,
             "topics": [
               "aarch64",
               "android",
@@ -6077,7 +6077,7 @@
             "language": "Pascal",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-04T20:35:35Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 439,
@@ -6402,8 +6402,8 @@
             "id": 32552265,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-23T19:15:48Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-06T18:13:39Z",
+            "open_issues": 26,
             "owner": "MHumm",
             "repo": "DelphiEncryptionCompendium",
             "stars": 286,
@@ -6465,7 +6465,7 @@
             "id": 117853224,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-09-05T12:20:23Z",
+            "last_commit": "2026-09-07T13:31:56Z",
             "open_issues": 0,
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
@@ -7073,7 +7073,7 @@
             "open_issues": 5,
             "owner": "mauriziodm",
             "repo": "DJSON",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7338,7 +7338,7 @@
             "open_issues": 46,
             "owner": "pleriche",
             "repo": "FastMM4",
-            "stars": 496,
+            "stars": 497,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7498,7 +7498,7 @@
             "open_issues": 12,
             "owner": "MahdiSafsafi",
             "repo": "DDetours",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "com",
               "delphi",
@@ -7745,7 +7745,7 @@
             "open_issues": 0,
             "owner": "leledumbo",
             "repo": "mustapas",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8005,7 +8005,7 @@
             "open_issues": 0,
             "owner": "landrix",
             "repo": "Log4d-for-Delphi",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8077,7 +8077,7 @@
             "language": "Pascal",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-04T20:35:35Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 439,
@@ -9299,7 +9299,7 @@
             "open_issues": 1,
             "owner": "thecocce",
             "repo": "delphi-hibernate",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -9382,7 +9382,7 @@
             "open_issues": 22,
             "owner": "landrix",
             "repo": "The-Drag-and-Drop-Component-Suite-for-Delphi",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "delphi",
               "drag",
@@ -9433,7 +9433,7 @@
             "open_issues": 4,
             "owner": "EtheaDev",
             "repo": "MarkdownShellExtensions",
-            "stars": 117,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -9711,7 +9711,7 @@
             "open_issues": 6,
             "owner": "jhc-systems",
             "repo": "DelphiUIAutomation",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10429,7 +10429,7 @@
             "language": "Java",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-04T03:40:04Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "integrated-application-development",
             "repo": "sonar-delphi",
             "stars": 158,
@@ -10702,10 +10702,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-04T23:07:58Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175627,
+            "stars": 175651,
             "topics": [
               "git",
               "gitignore"
@@ -10729,7 +10729,7 @@
             "open_issues": 19,
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 627,
+            "stars": 626,
             "topics": [
               "boss",
               "delphi",
@@ -10782,7 +10782,7 @@
             "open_issues": 13,
             "owner": "neslib",
             "repo": "Chet",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "c",
               "chet",
@@ -11002,7 +11002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:44:29.422Z",
+    "last_updated": "2026-09-07T19:24:21.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
