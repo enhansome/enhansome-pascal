@@ -237,7 +237,7 @@
             "open_issues": 29,
             "owner": "grijjy",
             "repo": "GrijjyFoundation",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -258,7 +258,7 @@
             "open_issues": 6,
             "owner": "Steema",
             "repo": "TeeBI",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "bi",
               "big-data",
@@ -310,7 +310,7 @@
             "id": 226658540,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T12:28:09Z",
+            "last_commit": "2026-09-08T12:27:18Z",
             "open_issues": 9,
             "owner": "parmaja",
             "repo": "minilib",
@@ -692,7 +692,7 @@
             "id": 60029721,
             "language": "Pascal",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-07T17:05:57Z",
+            "last_commit": "2026-09-08T17:11:46Z",
             "open_issues": 8,
             "owner": "graphics32",
             "repo": "graphics32",
@@ -1396,7 +1396,7 @@
             "id": 30114388,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T10:50:04Z",
+            "last_commit": "2026-09-08T09:24:52Z",
             "open_issues": 87,
             "owner": "castle-engine",
             "repo": "castle-engine",
@@ -1438,7 +1438,7 @@
             "id": 52313841,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-09-06T23:38:26Z",
+            "last_commit": "2026-09-08T17:30:59Z",
             "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
@@ -1908,11 +1908,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T16:36:45Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-08T18:17:45Z",
+            "open_issues": 32,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10957,
+            "stars": 10956,
             "topics": [
               "actionscript",
               "c",
@@ -2096,7 +2096,7 @@
             "open_issues": 302,
             "owner": "IndySockets",
             "repo": "Indy",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "cppbuilder",
               "delphi",
@@ -2219,8 +2219,8 @@
             "id": 1099447279,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:36:44Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-08T13:50:41Z",
+            "open_issues": 4,
             "owner": "dotpas",
             "repo": "dext",
             "stars": 314,
@@ -2495,8 +2495,8 @@
             "id": 54213274,
             "language": "Pascal",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T15:31:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-08T17:36:21Z",
+            "open_issues": 7,
             "owner": "michaelJustin",
             "repo": "daraja-framework",
             "stars": 160,
@@ -2528,7 +2528,7 @@
             "open_issues": 8,
             "owner": "geby",
             "repo": "synapse",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "delphi",
               "freepascal",
@@ -2590,6 +2590,27 @@
         },
         {
           "node_type": "item",
+          "title": "DelphiZeroMQ",
+          "description": ". Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding",
+            "homepage": null,
+            "id": 90073539,
+            "language": "Pascal",
+            "license": "NOASSERTION",
+            "last_commit": "2020-01-21T20:38:40Z",
+            "open_issues": 8,
+            "owner": "grijjy",
+            "repo": "DelphiZeroMQ",
+            "stars": 134,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:08:49.503Z"
+        },
+        {
+          "node_type": "item",
           "title": "Delphi Modbus",
           "description": ". Implementation of a ModbusTCP protocol master and slave over TCP/IP.",
           "children": [],
@@ -2605,27 +2626,6 @@
             "owner": "coassoftwaresystems",
             "repo": "delphi-modbus",
             "stars": 134,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:08:49.503Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DelphiZeroMQ",
-          "description": ". Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding",
-            "homepage": null,
-            "id": 90073539,
-            "language": "Pascal",
-            "license": "NOASSERTION",
-            "last_commit": "2020-01-21T20:38:40Z",
-            "open_issues": 8,
-            "owner": "grijjy",
-            "repo": "DelphiZeroMQ",
-            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -2734,7 +2734,7 @@
             "language": "Pascal",
             "license": null,
             "last_commit": "2026-03-14T04:45:36Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "pult",
             "repo": "libssh2_delphi",
             "stars": 94,
@@ -3675,7 +3675,7 @@
             "open_issues": 8,
             "owner": "geby",
             "repo": "synapse",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "delphi",
               "freepascal",
@@ -4181,7 +4181,7 @@
             "id": 29590515,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-07T14:55:40Z",
+            "last_commit": "2026-09-08T09:31:33Z",
             "open_issues": 18,
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
@@ -4258,7 +4258,7 @@
             "open_issues": 21,
             "owner": "norgepaul",
             "repo": "TChromeTabs",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4533,7 +4533,7 @@
             "id": 32381703,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T11:06:11Z",
+            "last_commit": "2026-09-08T16:50:58Z",
             "open_issues": 4,
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
@@ -4666,7 +4666,7 @@
             "open_issues": 91,
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "components",
               "delphi",
@@ -5514,7 +5514,7 @@
             "open_issues": 9,
             "owner": "grijjy",
             "repo": "DelphiMongoDB",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5624,7 +5624,7 @@
             "open_issues": 1,
             "owner": "grijjy",
             "repo": "DelphiCassandra",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5687,7 +5687,7 @@
             "open_issues": 0,
             "owner": "grijjy",
             "repo": "DelphiCouchbase",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5725,11 +5725,11 @@
             "id": 792358743,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:14:38Z",
+            "last_commit": "2026-09-07T19:39:34Z",
             "open_issues": 90,
             "owner": "bero",
             "repo": "BoldForDelphi",
-            "stars": 8,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -5756,7 +5756,7 @@
             "open_issues": 10,
             "owner": "lmbelo",
             "repo": "python4delphi",
-            "stars": 1057,
+            "stars": 1058,
             "topics": [
               "delphi",
               "lazarus",
@@ -6034,11 +6034,11 @@
             "id": 531380835,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T23:02:20Z",
-            "open_issues": 631,
+            "last_commit": "2026-09-08T10:44:27Z",
+            "open_issues": 622,
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14654,
+            "stars": 14673,
             "topics": [
               "aarch64",
               "android",
@@ -6580,7 +6580,7 @@
             "open_issues": 2,
             "owner": "evpobr",
             "repo": "DcpCrypt2",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7335,7 +7335,7 @@
             "language": "Pascal",
             "license": null,
             "last_commit": "2026-08-18T15:59:07Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "pleriche",
             "repo": "FastMM4",
             "stars": 497,
@@ -7909,7 +7909,7 @@
             "open_issues": 9,
             "owner": "grijjy",
             "repo": "GrijjyCloudLogger",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8702,7 +8702,7 @@
             "id": 80858136,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-05T09:01:00Z",
+            "last_commit": "2026-09-08T09:00:54Z",
             "open_issues": 24,
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
@@ -9353,7 +9353,7 @@
             "open_issues": 10,
             "owner": "EtheaDev",
             "repo": "SVGShellExtensions",
-            "stars": 202,
+            "stars": 201,
             "topics": [
               "preview-pane",
               "shell-extension",
@@ -9433,7 +9433,7 @@
             "open_issues": 4,
             "owner": "EtheaDev",
             "repo": "MarkdownShellExtensions",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -9593,7 +9593,7 @@
             "open_issues": 1,
             "owner": "Kryuski",
             "repo": "kryvich-delphi-reporter",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10528,7 +10528,7 @@
             "open_issues": 16,
             "owner": "DelphiCodeCoverage",
             "repo": "DelphiCodeCoverage",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "codecoverage",
               "coverage",
@@ -10701,11 +10701,11 @@
             "id": 1062897,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-04T23:07:58Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-08T17:21:58Z",
+            "open_issues": 74,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175651,
+            "stars": 175660,
             "topics": [
               "git",
               "gitignore"
@@ -11002,7 +11002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:24:21.575Z",
+    "last_updated": "2026-09-08T18:59:20.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
