@@ -19,7 +19,7 @@
             "open_issues": 35,
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
-            "stars": 1126,
+            "stars": 1127,
             "topics": [
               "bson",
               "delphi",
@@ -54,7 +54,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -117,7 +117,7 @@
             "open_issues": 42,
             "owner": "exilon",
             "repo": "QuickLib",
-            "stars": 715,
+            "stars": 716,
             "topics": [
               "automapper",
               "azure",
@@ -175,7 +175,7 @@
             "id": 19535520,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-09T22:42:46Z",
+            "last_commit": "2026-09-11T16:51:20Z",
             "open_issues": 5,
             "owner": "cnpack",
             "repo": "cnvcl",
@@ -213,7 +213,7 @@
             "open_issues": 24,
             "owner": "andrea-magni",
             "repo": "MARS",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "delphi",
               "rest"
@@ -599,7 +599,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -641,7 +641,7 @@
             "open_issues": 47,
             "owner": "skia4delphi",
             "repo": "skia4delphi",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "android",
               "console",
@@ -692,11 +692,11 @@
             "id": 60029721,
             "language": "Pascal",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-10T16:48:42Z",
+            "last_commit": "2026-09-11T07:32:38Z",
             "open_issues": 8,
             "owner": "graphics32",
             "repo": "graphics32",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "2d",
               "components",
@@ -765,7 +765,7 @@
             "open_issues": 29,
             "owner": "synopse",
             "repo": "SynPDF",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -820,7 +820,7 @@
             "open_issues": 10,
             "owner": "ahausladen",
             "repo": "PdfiumLib",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -841,7 +841,7 @@
             "open_issues": 17,
             "owner": "galfar",
             "repo": "imaginglib",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "delphi",
               "free-pascal",
@@ -1284,7 +1284,7 @@
             "open_issues": 7,
             "owner": "cutec-chris",
             "repo": "dexif",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -1396,11 +1396,11 @@
             "id": 30114388,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T15:35:49Z",
+            "last_commit": "2026-09-10T19:45:50Z",
             "open_issues": 87,
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "2d-game-engine",
               "3d-game-engine",
@@ -1438,11 +1438,11 @@
             "id": 52313841,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-09-09T21:54:14Z",
+            "last_commit": "2026-09-11T18:23:58Z",
             "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "delphi",
               "fpc",
@@ -1499,7 +1499,7 @@
             "id": 319041413,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-08-09T11:43:44Z",
+            "last_commit": "2026-09-11T18:14:38Z",
             "open_issues": 1,
             "owner": "GuvaCode",
             "repo": "ray4laz",
@@ -1538,11 +1538,11 @@
             "id": 37377686,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-09T21:53:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T21:56:43Z",
+            "open_issues": 6,
             "owner": "BeRo1985",
             "repo": "kraft",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "3d",
               "delphi",
@@ -1596,7 +1596,7 @@
             "open_issues": 0,
             "owner": "BrokenGamesUG",
             "repo": "delphi3d-engine",
-            "stars": 80,
+            "stars": 82,
             "topics": [
               "3d-graphics",
               "delphi",
@@ -1908,11 +1908,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T10:00:26Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-11T16:11:04Z",
+            "open_issues": 31,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10957,
+            "stars": 10958,
             "topics": [
               "actionscript",
               "c",
@@ -1984,7 +1984,7 @@
             "open_issues": 0,
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "api",
               "delphi",
@@ -2020,7 +2020,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -2062,7 +2062,7 @@
             "open_issues": 0,
             "owner": "viniciussanchez",
             "repo": "RESTRequest4Delphi",
-            "stars": 620,
+            "stars": 621,
             "topics": [
               "api",
               "client",
@@ -2096,7 +2096,7 @@
             "open_issues": 302,
             "owner": "IndySockets",
             "repo": "Indy",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "cppbuilder",
               "delphi",
@@ -2135,7 +2135,7 @@
             "open_issues": 4,
             "owner": "paolo-rossi",
             "repo": "delphi-jose-jwt",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "auth",
               "delphi",
@@ -2163,7 +2163,7 @@
             "open_issues": 64,
             "owner": "winddriver",
             "repo": "Delphi-Cross-Socket",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "cross-platform",
               "delphi",
@@ -2326,7 +2326,7 @@
             "open_issues": 7,
             "owner": "ymofen",
             "repo": "diocp-v5",
-            "stars": 253,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -2496,7 +2496,7 @@
             "language": "Pascal",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-10T14:16:14Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "michaelJustin",
             "repo": "daraja-framework",
             "stars": 160,
@@ -2555,7 +2555,7 @@
             "open_issues": 25,
             "owner": "danieleteti",
             "repo": "delphistompclient",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "activemq",
               "delphi",
@@ -3638,7 +3638,7 @@
             "open_issues": 138,
             "owner": "felHR85",
             "repo": "UsbSerial",
-            "stars": 1948,
+            "stars": 1950,
             "topics": [
               "android",
               "android-hardware",
@@ -3799,7 +3799,7 @@
             "open_issues": 0,
             "owner": "dalijap",
             "repo": "nx-horizon",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "delphi",
               "eventbus"
@@ -3850,7 +3850,7 @@
             "open_issues": 1,
             "owner": "viniciusfbb",
             "repo": "ipub-messaging",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "cross-platform",
               "delphi",
@@ -3910,7 +3910,7 @@
             "open_issues": 4,
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 597,
+            "stars": 598,
             "topics": [
               "cross-platform",
               "delphi",
@@ -4185,7 +4185,7 @@
             "open_issues": 19,
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "control",
               "delphi",
@@ -4373,7 +4373,7 @@
             "open_issues": 1,
             "owner": "Alexey-T",
             "repo": "ATFlatControls",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4533,11 +4533,11 @@
             "id": 32381703,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T16:55:39Z",
+            "last_commit": "2026-09-11T18:13:14Z",
             "open_issues": 4,
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "lazarus",
               "pascal",
@@ -4666,7 +4666,7 @@
             "open_issues": 91,
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "components",
               "delphi",
@@ -4695,7 +4695,7 @@
             "open_issues": 10,
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "blink",
               "browser",
@@ -4757,7 +4757,7 @@
             "open_issues": 0,
             "owner": "Alexey-T",
             "repo": "ATViewer",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4778,7 +4778,7 @@
             "open_issues": 0,
             "owner": "Alexey-T",
             "repo": "ATViewer",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4799,7 +4799,7 @@
             "open_issues": 0,
             "owner": "Alexey-T",
             "repo": "ATViewer",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4820,7 +4820,7 @@
             "open_issues": 0,
             "owner": "Alexey-T",
             "repo": "ATViewer",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -4847,7 +4847,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -5225,7 +5225,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -5267,7 +5267,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -5309,7 +5309,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -5578,7 +5578,7 @@
             "id": 61213087,
             "language": "Pascal",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T16:40:14Z",
+            "last_commit": "2026-09-11T13:56:53Z",
             "open_issues": 0,
             "owner": "mauriziodm",
             "repo": "iORM",
@@ -5782,7 +5782,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -6034,11 +6034,11 @@
             "id": 531380835,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T13:58:41Z",
-            "open_issues": 615,
+            "last_commit": "2026-09-11T06:27:08Z",
+            "open_issues": 617,
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 14708,
+            "stars": 14725,
             "topics": [
               "aarch64",
               "android",
@@ -6080,7 +6080,7 @@
             "open_issues": 59,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "cifar-10",
               "cifar10",
@@ -6272,7 +6272,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -6331,7 +6331,7 @@
             "id": 13853442,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-08-01T13:56:50Z",
+            "last_commit": "2026-09-11T05:17:57Z",
             "open_issues": 1,
             "owner": "AlexanderBagel",
             "repo": "FWZip",
@@ -6364,7 +6364,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -6437,7 +6437,7 @@
             "open_issues": 0,
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "byte-array",
               "checksum",
@@ -6469,7 +6469,7 @@
             "open_issues": 0,
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "cryptography",
               "delphi",
@@ -6551,7 +6551,7 @@
             "open_issues": 0,
             "owner": "Xor-el",
             "repo": "SimpleBaseLib4Pascal",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "base16",
               "base32",
@@ -6687,7 +6687,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -6729,7 +6729,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -6771,7 +6771,7 @@
             "open_issues": 2,
             "owner": "viniciussanchez",
             "repo": "dataset-serialize",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "child-dataset",
               "converter",
@@ -6830,7 +6830,7 @@
             "open_issues": 9,
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "delphi",
               "json",
@@ -7024,7 +7024,7 @@
             "open_issues": 5,
             "owner": "SeanSolberg",
             "repo": "DynamicDataObjects",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7380,7 +7380,7 @@
             "open_issues": 1,
             "owner": "maximmasiutin",
             "repo": "FastMM4-AVX",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "avx2",
               "avx512",
@@ -7450,7 +7450,7 @@
             "open_issues": 0,
             "owner": "RDP1974",
             "repo": "Delphi64RTL",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -7797,7 +7797,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -8080,7 +8080,7 @@
             "open_issues": 59,
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "cifar-10",
               "cifar10",
@@ -8200,7 +8200,7 @@
             "open_issues": 0,
             "owner": "benibela",
             "repo": "bigdecimalmath",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -8334,7 +8334,7 @@
             "open_issues": 0,
             "owner": "tokibito",
             "repo": "delphi-argparse",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "delphi",
               "pascal"
@@ -8358,7 +8358,7 @@
             "open_issues": 1,
             "owner": "benibela",
             "repo": "rcmdline",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "command-line",
               "library",
@@ -8432,7 +8432,7 @@
             "open_issues": 16,
             "owner": "andgineer",
             "repo": "TRegExpr",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "delphi",
               "freepascal",
@@ -8542,7 +8542,7 @@
             "open_issues": 4,
             "owner": "BeRo1985",
             "repo": "pasmp",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8593,7 +8593,7 @@
             "open_issues": 41,
             "owner": "BeRo1985",
             "repo": "flre",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8702,7 +8702,7 @@
             "id": 80858136,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-09-10T09:00:59Z",
+            "last_commit": "2026-09-11T09:00:48Z",
             "open_issues": 24,
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
@@ -9403,7 +9403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Process Memory Map",
+            "description": "Deep memory analysis for Windows processes — the tool that saves you hours of debugging",
             "homepage": null,
             "id": 12871885,
             "language": "Pascal",
@@ -9413,7 +9413,16 @@
             "owner": "AlexanderBagel",
             "repo": "ProcessMemoryMap",
             "stars": 172,
-            "topics": []
+            "topics": [
+              "analyzer",
+              "binary-analysis",
+              "delphi",
+              "dissassembler",
+              "memory-analysis",
+              "pe-format",
+              "reverse-engineering",
+              "windows-internals"
+            ]
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
         },
@@ -9530,7 +9539,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -9620,7 +9629,7 @@
             "open_issues": 10,
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "compression-library",
               "crypto-library",
@@ -9962,7 +9971,7 @@
             "open_issues": 27,
             "owner": "RRUZ",
             "repo": "delphi-ide-theme-editor",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "delphi",
               "lazarus-ide",
@@ -10363,7 +10372,7 @@
             "id": 42364093,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T18:47:49Z",
+            "last_commit": "2026-09-11T14:08:50Z",
             "open_issues": 1,
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
@@ -10395,7 +10404,7 @@
             "open_issues": 9,
             "owner": "casteng",
             "repo": "i-pascal",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "ast",
               "completion",
@@ -10428,8 +10437,8 @@
             "id": 537284545,
             "language": "Java",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-09T23:50:09Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-11T04:09:51Z",
+            "open_issues": 40,
             "owner": "integrated-application-development",
             "repo": "sonar-delphi",
             "stars": 158,
@@ -10701,11 +10710,11 @@
             "id": 1062897,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-08T17:21:58Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-11T16:15:42Z",
+            "open_issues": 73,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175697,
+            "stars": 175716,
             "topics": [
               "git",
               "gitignore"
@@ -10729,7 +10738,7 @@
             "open_issues": 19,
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "boss",
               "delphi",
@@ -11002,7 +11011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:41:46.462Z",
+    "last_updated": "2026-09-11T18:45:34.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
@@ -11011,7 +11020,7 @@
       "language": "Pascal",
       "license": "CC0-1.0",
       "last_commit": "2026-02-27T16:04:57Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "Fr0sT-Brutal",
       "repo": "awesome-pascal",
       "stars": 2082,
