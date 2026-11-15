@@ -209,8 +209,8 @@
             "id": 50089387,
             "language": "Pascal",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-13T12:13:44Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-15T08:54:48Z",
+            "open_issues": 3,
             "owner": "andrea-magni",
             "repo": "MARS",
             "stars": 399,
@@ -658,7 +658,7 @@
             "open_issues": 45,
             "owner": "skia4delphi",
             "repo": "skia4delphi",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "android",
               "console",
@@ -782,7 +782,7 @@
             "open_issues": 32,
             "owner": "synopse",
             "repo": "SynPDF",
-            "stars": 323,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -1455,7 +1455,7 @@
             "id": 52313841,
             "language": "Pascal",
             "license": "Zlib",
-            "last_commit": "2026-11-14T16:45:52Z",
+            "last_commit": "2026-11-15T01:41:42Z",
             "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
@@ -1486,11 +1486,11 @@
             "id": 244948203,
             "language": "Pascal",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-14T18:50:20Z",
+            "last_commit": "2026-11-15T13:19:06Z",
             "open_issues": 3,
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
-            "stars": 202,
+            "stars": 201,
             "topics": [
               "delphi",
               "delphi-game",
@@ -1925,11 +1925,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T10:46:59Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-15T10:28:28Z",
+            "open_issues": 60,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10967,
+            "stars": 10966,
             "topics": [
               "actionscript",
               "c",
@@ -1958,7 +1958,7 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T22:25:03Z",
+            "last_commit": "2026-11-15T15:25:17Z",
             "open_issues": 13,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
@@ -2148,7 +2148,7 @@
             "id": 39593107,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-11-13T09:09:01Z",
+            "last_commit": "2026-11-15T09:31:13Z",
             "open_issues": 3,
             "owner": "paolo-rossi",
             "repo": "delphi-jose-jwt",
@@ -2236,7 +2236,7 @@
             "id": 1099447279,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T20:00:15Z",
+            "last_commit": "2026-11-15T13:29:26Z",
             "open_issues": 2,
             "owner": "dotpas",
             "repo": "dext",
@@ -3245,7 +3245,7 @@
             "open_issues": 1,
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "api-wrapper",
               "azure",
@@ -3796,7 +3796,7 @@
             "open_issues": 7,
             "owner": "spinettaro",
             "repo": "delphi-event-bus",
-            "stars": 496,
+            "stars": 495,
             "topics": [
               "delphi",
               "eventbus"
@@ -4202,8 +4202,8 @@
             "id": 29590515,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-11-14T13:24:47Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-15T09:42:50Z",
+            "open_issues": 21,
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
             "stars": 739,
@@ -4729,7 +4729,7 @@
             "open_issues": 10,
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "blink",
               "browser",
@@ -5427,7 +5427,7 @@
             "open_issues": 3,
             "owner": "davidlastrucci",
             "repo": "Trysil",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "database",
               "delphi",
@@ -5759,8 +5759,8 @@
             "id": 792358743,
             "language": "Pascal",
             "license": "MIT",
-            "last_commit": "2026-11-14T20:05:24Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-15T20:22:24Z",
+            "open_issues": 117,
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 11,
@@ -6072,7 +6072,7 @@
             "open_issues": 651,
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 15948,
+            "stars": 15969,
             "topics": [
               "aarch64",
               "android",
@@ -6843,7 +6843,7 @@
             "open_issues": 17,
             "owner": "ahausladen",
             "repo": "JsonDataObjects",
-            "stars": 460,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -8427,11 +8427,11 @@
             "id": 12511548,
             "language": "Pascal",
             "license": null,
-            "last_commit": "2026-06-25T18:53:54Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-15T19:18:50Z",
+            "open_issues": 105,
             "owner": "jmpessoa",
             "repo": "lazandroidmodulewizard",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:49.503Z"
@@ -10726,7 +10726,7 @@
             "open_issues": 18,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 176335,
+            "stars": 176290,
             "topics": [
               "git",
               "gitignore"
@@ -11023,7 +11023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:07:39.729Z",
+    "last_updated": "2026-11-15T20:36:17.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
@@ -11035,7 +11035,7 @@
       "open_issues": 25,
       "owner": "Fr0sT-Brutal",
       "repo": "awesome-pascal",
-      "stars": 2097,
+      "stars": 2098,
       "topics": [
         "awesome",
         "awesome-list",
