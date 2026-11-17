@@ -74,7 +74,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [JVCL](https://github.com/project-jedi/jvcl) ⭐ 675 | 🐛 15 | 🌐 Pascal | 📅 2026-05-29. `[Delphi]` Library of over 600 Delphi components developed by "Project JEDI" members.
   // *GUI, algorithms, classes, API headers etc.*
 
-* [CNVCL](https://github.com/cnpack/cnvcl) ⭐ 406 | 🐛 5 | 🌐 Pascal | 📅 2026-11-11. `[Delphi]` CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
+* [CNVCL](https://github.com/cnpack/cnvcl) ⭐ 406 | 🐛 5 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
 
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS) ⭐ 401 | 🐛 1 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
@@ -85,7 +85,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [TheUnknownOnes](https://github.com/chaosben/theunknownones) ⭐ 90 | 🐛 1 | 🌐 Pascal | 📅 2018-07-24. `[Delphi]` Huge heap of classes, components, utilities for almost every purpose. Nearly undocumented and seems not very up-to-date though.
 
-* [minilib](https://github.com/parmaja/minilib) ⭐ 82 | 🐛 9 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
+* [minilib](https://github.com/parmaja/minilib) ⭐ 82 | 🐛 9 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
 * [Fundamentals Code Library](http://sourceforge.net/projects/fundementals) (abandoned, more recent fork is [here](https://github.com/fundamentalslib/fundamentals4) ⭐ 66 | 🐛 2 | 🌐 Pascal | 📅 2016-01-27 - though it slightly differs in units set, f.ex. no XML. Recent major version 5 [here](https://github.com/fundamentalslib/fundamentals5) ⭐ 277 | 🐛 13 | 🌐 Pascal | 📅 2021-10-19). `[Delphi]` `[FPC]` Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
   // *Utils: ZLIB compression; JSON; XML; ProtocolBuffers; Unicode routines; data structures; Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Network: blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native); SQL parser; BitCoin MtGox client; Blaise script engine; Cipher: AES, DES, FUNE, RC2, RC4, RSA, Diffie-Hellman; Maths: matrix, complex, statistics, huge numbers*
@@ -225,21 +225,21 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *There are also some drawing engines suitable for game dev in [Graphic](#graphic) section*
 
-* [Castle Game Engine](https://github.com/castle-engine/castle-engine) ⭐ 1,265 | 🐛 102 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
+* [Castle Game Engine](https://github.com/castle-engine/castle-engine) ⭐ 1,266 | 🐛 102 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
 
-* [pasvulkan](https://github.com/BeRo1985/pasvulkan) ⭐ 230 | 🐛 13 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
+* [pasvulkan](https://github.com/BeRo1985/pasvulkan) ⭐ 230 | 🐛 13 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
-* [Apus Game Engine](https://github.com/Cooler2/ApusGameEngine) ⭐ 201 | 🐛 3 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
+* [Apus Game Engine](https://github.com/Cooler2/ApusGameEngine) ⭐ 201 | 🐛 3 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
 
 * [Ray4Laz](https://github.com/GuvaCode/Ray4Laz) ⭐ 183 | 🐛 1 | 🌐 Pascal | 📅 2026-10-15. `[FPC]` A complete header translation (binding) of [raylib](https://www.raylib.com/) to Pascal.
 
-* [Kraft Physics Engine](https://github.com/BeRo1985/kraft) ⭐ 132 | 🐛 6 | 🌐 Pascal | 📅 2026-11-09. `[Delphi]` `[FPC]` Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS)
+* [Kraft Physics Engine](https://github.com/BeRo1985/kraft) ⭐ 132 | 🐛 6 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS)
 
 * [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub](https://github.com/ev1313/Pascal-SDL-2-Headers) ⭐ 122 | 🐛 5 | 🌐 C++ | 📅 2020-11-08). `[Delphi]` `[FPC]` Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 
 * [Delphi3D Engine](https://github.com/BrokenGamesUG/delphi3d-engine) ⭐ 87 | 🐛 0 | 🌐 Pascal | 📅 2021-01-21. `[Delphi]` A 3D-graphic and game engine for Delphi and Windows
 
-* [ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal) ⭐ 79 | 🐛 1 | 🌐 Pascal | 📅 2025-08-19. `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui](https://github.com/ocornut/imgui) ⭐ 77,137 | 🐛 1,211 | 🌐 C++ | 📅 2026-11-16 binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
+* [ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal) ⭐ 79 | 🐛 1 | 🌐 Pascal | 📅 2025-08-19. `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui](https://github.com/ocornut/imgui) ⭐ 77,149 | 🐛 1,212 | 🌐 C++ | 📅 2026-11-16 binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
 
 * [SFML](https://github.com/CWBudde/PasSFML) ⭐ 58 | 🐛 5 | 🌐 Pascal | 📅 2017-03-12. `[Delphi]` `[FPC]` Pascal SFML Headers. SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. Currently Delphi and FPC/Lazarus are supported. However, due to a compiler incompatibility with the Delphi compiler (solved with workarounds), FPC is recommended at the moment.
 
@@ -269,9 +269,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *Socket communication, network protocols, encodings, etc*
 
-* [Thrift Delphi Software Library](https://github.com/apache/thrift/tree/master/lib/delphi) ⭐ 10,967 | 🐛 56 | 🌐 C++ | 📅 2026-11-16. `[Delphi]` Lightweight, language-independent software stack for point-to-point RPC implementation. Thrift provides clean abstractions and implementations for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers. Thrift makes it easy for programs written in different programming languages to share data and call remote procedures. With support for 28 programming languages, chances are Thrift supports the languages that you currently use.
+* [Thrift Delphi Software Library](https://github.com/apache/thrift/tree/master/lib/delphi) ⭐ 10,968 | 🐛 56 | 🌐 C++ | 📅 2026-11-17. `[Delphi]` Lightweight, language-independent software stack for point-to-point RPC implementation. Thrift provides clean abstractions and implementations for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers. Thrift makes it easy for programs written in different programming languages to share data and call remote procedures. With support for 28 programming languages, chances are Thrift supports the languages that you currently use.
 
-* [DMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,422 | 🐛 14 | 🌐 Pascal | 📅 2026-11-15. `[Delphi]` Popular and powerful framework for web solution in Delphi.
+* [DMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,422 | 🐛 10 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` Popular and powerful framework for web solution in Delphi.
 
 * [Horse](https://github.com/HashLoad/horse) ⭐ 1,384 | 🐛 5 | 🌐 Pascal | 📅 2026-11-09. `[Delphi]` `[FPC]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
 
@@ -280,7 +280,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi) ⭐ 626 | 🐛 0 | 🌐 Pascal | 📅 2026-11-02. `[Delphi]` RESTRequest4Delphi is a API to consume REST services written in any programming language. Designed to facilitate development, in a simple and minimalist way.
 
-* [Indy](https://github.com/IndySockets/Indy) ⭐ 558 | 🐛 307 | 🌐 Pascal | 📅 2026-11-09. `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
+* [Indy](https://github.com/IndySockets/Indy) ⭐ 558 | 🐛 306 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
   // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
 * [Delphi JOSE and JWT Library](https://github.com/paolo-rossi/delphi-jose-jwt) ⭐ 522 | 🐛 3 | 🌐 Pascal | 📅 2026-11-15. `[Delphi]` Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)
@@ -290,7 +290,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [ToroKernel](https://github.com/torokernel/torokernel) ⭐ 371 | 🐛 130 | 🌐 Pascal | 📅 2026-09-07. `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
 
-* [Dext Framework](https://github.com/cesarliws/dext) ⭐ 334 | 🐛 2 | 🌐 Pascal | 📅 2026-11-15. `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
+* [Dext Framework](https://github.com/cesarliws/dext) ⭐ 334 | 🐛 2 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
 
 * [Brook framework](https://github.com/risoflora/brookframework) ⭐ 278 | 🐛 5 | 🌐 Pascal | 📅 2026-11-06. `[Delphi]` `[FPC]` Microframework which helps to develop web Pascal applications.
   // *Based on external [libsagui](https://risoflora.github.io/libsagui/)*
@@ -513,7 +513,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [zControls](https://github.com/MahdiSafsafi/zcontrols) ⭐ 160 | 🐛 13 | 🌐 Pascal | 📅 2023-11-13. `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
 
-* [ATTabs](https://github.com/Alexey-T/ATFlatControls) ⭐ 111 | 🐛 1 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+* [ATTabs](https://github.com/Alexey-T/ATFlatControls) ⭐ 111 | 🐛 1 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
 
 * [TTreeListView](http://github.com/benibela/treelistview) ⭐ 58 | 🐛 2 | 🌐 Pascal | 📅 2022-09-18. `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
 
@@ -539,7 +539,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit) ⭐ 272 | 🐛 29 | 🌐 Pascal | 📅 2026-11-09). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
-* [ATSynEdit](https://github.com/Alexey-T/ATSynEdit) ⭐ 193 | 🐛 3 | 🌐 Pascal | 📅 2026-11-16. `[FPC]` Multi-line editor control for Lazarus including syntax highlighting.
+* [ATSynEdit](https://github.com/Alexey-T/ATSynEdit) ⭐ 193 | 🐛 3 | 🌐 Pascal | 📅 2026-11-17. `[FPC]` Multi-line editor control for Lazarus including syntax highlighting.
 
 * [QDSEquations](https://github.com/karser/QDSEquations) ⭐ 46 | 🐛 1 | 🌐 Pascal | 📅 2021-02-06. `[Delphi]` Equation editor for Delphi and Lazarus that allows you to enter and display math formulas of any complexity, from simple Greek symbols to matrixes and complex integral expressions.
 
@@ -549,7 +549,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Viewers
 
-* [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi) ⭐ 1,340 | 🐛 16 | 🌐 Pascal | 📅 2026-11-13. `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
+* [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi) ⭐ 1,341 | 🐛 16 | 🌐 Pascal | 📅 2026-11-13. `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
 
 * [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer) ⭐ 445 | 🐛 94 | 🌐 Pascal | 📅 2026-07-19. `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
   // *Html visualiser supporting majority of tags, inline styles and CSS.*
@@ -622,7 +622,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi-ORM](https://github.com/danieleteti/delphi-orm) ⭐ 176 | 🐛 14 | 🌐 Pascal | 📅 2025-07-25. `[Delphi]` Object-Relational Mapping for Delphi XE2-7 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
 
-* [Trysil](https://github.com/davidlastrucci/Trysil) ⭐ 161 | 🐛 3 | 🌐 Pascal | 📅 2026-11-10. `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+* [Trysil](https://github.com/davidlastrucci/Trysil) ⭐ 162 | 🐛 3 | 🌐 Pascal | 📅 2026-11-10. `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 * [SQLite for Delphi and FreePascal/Lazarus](https://github.com/plashenkov/SQLite3-Delphi-FPC) ⭐ 133 | 🐛 0 | 🌐 Pascal | 📅 2026-02-06. `[Delphi]` `[FPC]` Complete SQLite3 API translation for Delphi and FreePascal/Lazarus, as well as a simple Unicode-enabled object wrapper to simplify the use of this database engine.
 
@@ -650,7 +650,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [d-ORModel](https://github.com/ultraware/d-ORModel) ⭐ 19 | 🐛 1 | 🌐 Pascal | 📅 2015-08-19. `[Delphi]` ORM for Delphi, based on models and object fields. LINQ support, fully typed and compile time checks.
 
-* [Bold for Delphi](https://github.com/bero/BoldForDelphi) ⭐ 11 | 🐛 117 | 🌐 Pascal | 📅 2026-11-16. `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo](https://github.com/Embarcadero/BoldForDelphi) ⭐ 156 | 🐛 29 | 🌐 Pascal | 📅 2026-03-14 is for Delphi 7.
+* [Bold for Delphi](https://github.com/bero/BoldForDelphi) ⭐ 11 | 🐛 117 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo](https://github.com/Embarcadero/BoldForDelphi) ⭐ 156 | 🐛 29 | 🌐 Pascal | 📅 2026-03-14 is for Delphi 7.
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). `[Delphi]` `[FPC]` Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
 
@@ -711,7 +711,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *Machine learning and neural networks*
 
-* [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ⭐ 15,989 | 🐛 649 | 🌐 C++ | 📅 2026-11-16. `[Delphi]` `[FPC]` Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
+* [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ⭐ 16,007 | 🐛 648 | 🌐 C++ | 📅 2026-11-17. `[Delphi]` `[FPC]` Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
 
 * [CAI Neural API](https://github.com/joaopauloschuler/neural-api) ⭐ 467 | 🐛 62 | 🌐 Pascal | 📅 2026-11-01. `[FPC]` Pascal-based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA. This API has been tested under Windows and Linux.
 
@@ -923,7 +923,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [SynLog](https://github.com/synopse/mORMot/blob/master/SynLog.pas) ⭐ 823 | 🐛 10 | 🌐 Pascal | 📅 2026-11-10. `[Delphi]` `[FPC]` Logging functions used by Synopse projects.
 
-* [QuickLogger](https://github.com/exilon/QuickLogger) ⭐ 450 | 🐛 22 | 🌐 Pascal | 📅 2026-10-05. `[Delphi]` `[FPC]` Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events.
+* [QuickLogger](https://github.com/exilon/QuickLogger) ⭐ 451 | 🐛 22 | 🌐 Pascal | 📅 2026-10-05. `[Delphi]` `[FPC]` Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events.
 
 * [LoggerPro](https://github.com/danieleteti/loggerpro) ⭐ 401 | 🐛 9 | 🌐 Pascal | 📅 2026-11-10. `[Delphi]` A modern and pluggable logging framework for Delphi.
 
@@ -1126,7 +1126,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX) ⭐ 424 | 🐛 21 | 🌐 Pascal | 📅 2026-11-09. `[Delphi]` New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
-* [Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks) ⭐ 252 | 🐛 8 | 🌐 Pascal | 📅 2026-11-11. `[Delphi]` Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing.
+* [Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks) ⭐ 252 | 🐛 7 | 🌐 Pascal | 📅 2026-11-17. `[Delphi]` Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing.
 
 * [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation) ⭐ 118 | 🐛 6 | 🌐 Pascal | 📅 2017-10-09. `[Delphi]` Delphi classes that wrap the MS UIAutomation library. DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages. It provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library and windows messages.
 
@@ -1230,7 +1230,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Plugins for other IDE's
 
-* [Pascal](https://github.com/alefragnani/vscode-language-pascal) ⭐ 277 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-31 and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter) ⭐ 40 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12. Open source extensions created for Visual Studio Code that add Pascal support.
+* [Pascal](https://github.com/alefragnani/vscode-language-pascal) ⭐ 276 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-31 and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter) ⭐ 40 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12. Open source extensions created for Visual Studio Code that add Pascal support.
 
 * [Intellij IDEA Object Pascal plugin](https://github.com/casteng/i-pascal) ⭐ 126 | 🐛 9 | 🌐 Java | 📅 2023-10-12. `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
 
@@ -1244,7 +1244,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Code check/review, debug
 
-* [SonarDelphi](https://github.com/integrated-application-development/sonar-delphi) ⭐ 161 | 🐛 44 | 🌐 Java | 📅 2026-11-12. `[Delphi]` Static analyzer for the SonarQube code quality platform.
+* [SonarDelphi](https://github.com/integrated-application-development/sonar-delphi) ⭐ 161 | 🐛 42 | 🌐 Java | 📅 2026-11-17. `[Delphi]` Static analyzer for the SonarQube code quality platform.
 
 * [Spider](https://github.com/yavfast/dbg-spider) ⭐ 139 | 🐛 10 | 🌐 Pascal | 📅 2023-09-05. `[Delphi]` Real time profiler for Delphi applications
 
@@ -1286,7 +1286,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Other
 
-* [Delphi.gitignore](https://github.com/github/gitignore) ⭐ 176,303 | 🐛 18 | 📅 2026-11-14. .gitignore templates for Delphi. There is also one for Lazarus.
+* [Delphi.gitignore](https://github.com/github/gitignore) ⭐ 176,338 | 🐛 18 | 📅 2026-11-14. .gitignore templates for Delphi. There is also one for Lazarus.
 
 * [Boss](https://github.com/HashLoad/boss) ⭐ 629 | 🐛 20 | 🌐 Go | 📅 2026-11-16. Dependency Manager for Delphi projects.
 
@@ -1320,4 +1320,4 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
